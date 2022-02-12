@@ -1,0 +1,388 @@
+Day = 1
+Shaggy arrives at the store on Day 1. The register has $0.0 in it
+The register now has $1000.0 in it
+Total value of inventory: $2757.0
+Shaggy sold a MP3 to Customer 0 for $100.0.
+Shaggy sold a Cables to Customer 1 for $27.0 after a 10% discount.
+Shaggy sold a RecordPlayer to Customer 2 for $60.0.
+Shaggy sold a Bass to Customer 3 for $90.0 after a 10% discount.
+Shaggy sold a Bass to Customer 4 for $100.0.
+Shaggy sold a Vinyl to Customer 5 for $18.0 after a 10% discount.
+Shaggy sold a Flute to Customer 6 for $90.0 after a 10% discount.
+Customer 0 sold a Vinyl to the FNMS for $59.671733472094544 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 2
+Velma arrives at the store on Day 2. The register has $1425.3282665279055 in it
+Total value of inventory: $2816.343466944189
+Velma sold a Bass to Customer 0 for $90.0 after a 10% discount.
+Customer 1 wanted to buy a RecordPlayer but did not like the price, so they left.
+Velma sold a Bandana to Customer 2 for $14.0.
+Velma sold a Flute to Customer 3 for $100.0.
+Velma sold a Mandolin to Customer 4 for $90.0 after a 10% discount.
+Velma sold a RecordPlayer to Customer 5 for $54.0 after a 10% discount.
+Velma sold a Bandana to Customer 6 for $14.0.
+Velma sold a CDPlayer to Customer 7 for $50.0.
+Velma sold a RecordPlayer to Customer 8 for $54.0 after a 10% discount.
+Customer 0 sold a MusicCD to the FNMS for $42.2565627360119 after a 10% haggle price.
+Customer 1 sold a Mandolin to the FNMS for $31.13808165945728
+Velma locks up the store and is going home for the day
+Day = 3
+Velma arrives at the store on Day 3. The register has $1817.9336221324363 in it
+Total value of inventory: $2588.1327557351274
+Velma sold a Shirts to Customer 0 for $10.0.
+Customer 1 wanted to buy a CDPlayer but did not like the price, so they left.
+Velma sold a Cables to Customer 2 for $30.0.
+Customer 3 wanted to buy a CDPlayer but did not like the price, so they left.
+Customer 4 wanted to buy a Cables but did not like the price, so they left.
+Velma sold a Shirts to Customer 5 for $9.0 after a 10% discount.
+Velma sold a Flute to Customer 6 for $90.0 after a 10% discount.
+Customer 0 sold a Shirts to the FNMS for $66.9597690251656
+Customer 1 sold a Bass to the FNMS for $60.14747455748663
+Velma locks up the store and is going home for the day
+Day = 4
+Velma arrives at the store on Day 4. The register has $1829.826378549784 in it
+Total value of inventory: $2512.347242900432
+Velma sold a RecordPlayer to Customer 0 for $60.0.
+Customer 1 wanted to buy a Cables but did not like the price, so they left.
+Velma sold a Vinyl to Customer 2 for $119.34346694418909.
+Velma sold a Flute to Customer 3 for $100.0.
+Customer 4 wanted to buy a Cables but did not like the price, so they left.
+Velma sold a PaperScore to Customer 5 for $20.0.
+Velma sold a Harmonica to Customer 6 for $40.0.
+Velma sold a MP3 to Customer 7 for $90.0 after a 10% discount.
+Velma sold a Bass to Customer 8 for $108.26545420347594 after a 10% discount.
+Customer 0 sold a Flute to the FNMS for $67.08301174770762 after a 10% haggle price.
+Customer 1 sold a Shirts to the FNMS for $23.98207444028607
+Customer 2 sold a Mandolin to the FNMS for $17.287847580801184
+Velma locks up the store and is going home for the day
+Day = 5
+Shaggy arrives at the store on Day 5. The register has $2259.082365928655 in it
+Total value of inventory: $2232.857409068776
+Customer 0 wanted to buy a Shirts but did not like the price, so they left.
+Shaggy sold a Shirts to Customer 1 for $43.167733992514925 after a 10% discount.
+Shaggy sold a Vinyl to Customer 2 for $119.34346694418909.
+Shaggy sold a Mandolin to Customer 3 for $31.11812564544213 after a 10% discount.
+Shaggy sold a Harmonica to Customer 4 for $40.0.
+Customer 5 wanted to buy a RecordPlayer but did not like the price, so they left.
+Shaggy sold a Mandolin to Customer 6 for $31.11812564544213 after a 10% discount.
+Customer 0 sold a Shirts to the FNMS for $41.530576131193435 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 6
+Velma arrives at the store on Day 6. The register has $2482.2992420250494 in it
+Total value of inventory: $2267.954412450591
+Velma sold a Harmonica to Customer 0 for $40.0.
+Velma sold a MusicCD to Customer 1 for $84.5131254720238.
+Velma sold a RecordPlayer to Customer 2 for $54.0 after a 10% discount.
+Velma sold a Hats to Customer 3 for $27.0 after a 10% discount.
+Velma sold a Bass to Customer 4 for $120.29494911497326.
+Velma sold a Vinyl to Customer 5 for $119.34346694418909.
+Velma sold a MusicCD to Customer 6 for $76.06181292482142 after a 10% discount.
+Customer 0 sold a Vinyl to the FNMS for $62.04858732539526 after a 10% haggle price.
+Customer 1 sold a Guitar to the FNMS for $26.406983070389007
+Velma locks up the store and is going home for the day
+Day = 7
+The FNMS is closed on Sundays, please come back on Monday!
+Day = 8
+Velma arrives at the store on Day 8. The register has $2915.057026085273 in it
+Total value of inventory: $2025.52208629797
+Velma sold a CDPlayer to Customer 0 for $50.0.
+Velma sold a CDPlayer to Customer 1 for $50.0.
+Velma sold a MP3 to Customer 2 for $100.0.
+Velma sold a Flute to Customer 3 for $120.74942114587371 after a 10% discount.
+Velma sold a MP3 to Customer 4 for $90.0 after a 10% discount.
+Velma sold a Mandolin to Customer 5 for $31.11812564544213 after a 10% discount.
+Velma sold a Cables to Customer 6 for $30.0.
+Customer 0 sold a Flute to the FNMS for $28.93012306885834 after a 10% haggle price.
+Customer 1 sold a PracticeAmps to the FNMS for $61.4252089862336
+Velma locks up the store and is going home for the day
+Day = 9
+Shaggy arrives at the store on Day 9. The register has $3296.569240821497 in it
+Total value of inventory: $1772.0667269127389
+Shaggy sold a Shirts to Customer 0 for $74.75503703614818 after a 10% discount.
+Shaggy sold a MP3 to Customer 1 for $90.0 after a 10% discount.
+Shaggy sold a Shirts to Customer 2 for $74.75503703614818 after a 10% discount.
+Shaggy sold a Vinyl to Customer 3 for $111.68745718571147 after a 10% discount.
+Customer 0 sold a Bass to the FNMS for $22.58520773750525 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 10
+Velma arrives at the store on Day 10. The register has $3625.1815643419995 in it
+Total value of inventory: $1696.942193272776
+Velma sold a Harmonica to Customer 0 for $36.0 after a 10% discount.
+Velma sold a PracticeAmps to Customer 1 for $122.8504179724672.
+Velma sold a Guitar to Customer 2 for $52.813966140778014.
+Velma sold a Cables to Customer 3 for $27.0 after a 10% discount.
+Velma sold a Shirts to Customer 4 for $83.06115226238687.
+Customer 5 wanted to buy a Harmonica but did not like the price, so they left.
+Velma sold a Bandana to Customer 6 for $14.0.
+Customer 0 sold a Shirts to the FNMS for $74.0138934431453 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 11
+Shaggy arrives at the store on Day 11. The register has $3886.8932072744865 in it
+Total value of inventory: $1761.9088278966797
+Shaggy sold a MP3 to Customer 0 for $90.0 after a 10% discount.
+Shaggy sold a PracticeAmps to Customer 1 for $122.8504179724672.
+Shaggy sold a RecordPlayer to Customer 2 for $60.0.
+Shaggy sold a Bandana to Customer 3 for $14.0.
+Shaggy sold a PaperScore to Customer 4 for $18.0 after a 10% discount.
+Shaggy sold a Hats to Customer 5 for $27.0 after a 10% discount.
+Shaggy sold a Flute to Customer 6 for $57.86024613771668.
+Customer 0 wanted to sell a Shirts but did not like the price, so they left.
+Customer 1 sold a Bass to the FNMS for $69.57992751728106 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 12
+Velma arrives at the store on Day 12. The register has $4207.023943867389 in it
+Total value of inventory: $1855.8982674562315
+Customer 0 wanted to buy a CDPlayer but did not like the price, so they left.
+Velma sold a Shirts to Customer 1 for $148.0277868862906.
+Velma sold a Guitar to Customer 2 for $52.813966140778014.
+Velma sold a Shirts to Customer 3 for $148.0277868862906.
+Velma sold a MP3 to Customer 4 for $90.0 after a 10% discount.
+Customer 5 wanted to buy a Mandolin but did not like the price, so they left.
+Velma sold a Harmonica to Customer 6 for $40.0.
+Velma sold a Bass to Customer 7 for $125.24386953110591 after a 10% discount.
+Customer 0 sold a MP3 to the FNMS for $78.82222994259394
+Customer 1 sold a CDPlayer to the FNMS for $76.5377771507592 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 13
+The FNMS is closed on Sundays, please come back on Monday!
+Day = 14
+Velma arrives at the store on Day 14. The register has $4655.7773462185 in it
+Total value of inventory: $1716.6182816429377
+Velma sold a PaperScore to Customer 0 for $20.0.
+Customer 1 wanted to buy a Bass but did not like the price, so they left.
+Velma sold a PaperScore to Customer 2 for $18.0 after a 10% discount.
+Velma sold a PracticeAmps to Customer 3 for $110.56537617522048 after a 10% discount.
+Customer 0 sold a Bandana to the FNMS for $51.1971837385303
+Customer 1 sold a Vinyl to the FNMS for $73.06218462990553
+Velma locks up the store and is going home for the day
+Day = 15
+Shaggy arrives at the store on Day 15. The register has $4680.083354025284 in it
+Total value of inventory: $1841.0398437290187
+Shaggy sold a Mandolin to Customer 0 for $31.11812564544213 after a 10% discount.
+Shaggy sold a CDPlayer to Customer 1 for $153.0755543015184.
+Shaggy sold a Bandana to Customer 2 for $14.0.
+Shaggy sold a PracticeAmps to Customer 3 for $122.8504179724672.
+Shaggy sold a Hats to Customer 4 for $27.0 after a 10% discount.
+Shaggy sold a Cables to Customer 5 for $27.0 after a 10% discount.
+Shaggy sold a Bass to Customer 6 for $139.15985503456213.
+Shaggy sold a CDPlayer to Customer 7 for $153.0755543015184.
+Shaggy sold a PracticeAmps to Customer 8 for $110.56537617522048 after a 10% discount.
+Customer 0 sold a Flute to the FNMS for $70.5367396464937
+Shaggy locks up the store and is going home for the day
+Day = 16
+Velma arrives at the store on Day 16. The register has $5387.391497809519 in it
+Total value of inventory: $1924.2530768842894
+Customer 0 wanted to buy a Vinyl but did not like the price, so they left.
+Velma sold a Mandolin to Customer 1 for $31.11812564544213 after a 10% discount.
+Velma sold a CDPlayer to Customer 2 for $153.0755543015184.
+Velma sold a Cables to Customer 3 for $30.0.
+Velma sold a Bandana to Customer 4 for $14.0.
+Velma sold a Guitar to Customer 5 for $52.813966140778014.
+Velma sold a Vinyl to Customer 6 for $146.12436925981106.
+Customer 0 sold a CDPlayer to the FNMS for $71.57287754387607
+Customer 1 sold a RecordPlayer to the FNMS for $65.29853382836832
+Customer 2 sold a RecordPlayer to the FNMS for $28.5575156602019 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 17
+Shaggy arrives at the store on Day 17. The register has $5649.094586124622 in it
+Total value of inventory: $1791.438308990927
+Shaggy sold a Vinyl to Customer 0 for $146.12436925981106.
+Shaggy sold a Cables to Customer 1 for $27.0 after a 10% discount.
+Shaggy sold a PaperScore to Customer 2 for $20.0.
+Shaggy sold a Hats to Customer 3 for $27.0 after a 10% discount.
+Shaggy sold a Cables to Customer 4 for $30.0.
+Shaggy sold a Vinyl to Customer 5 for $146.12436925981106.
+Shaggy sold a CDPlayer to Customer 6 for $143.14575508775215.
+Customer 0 sold a Mandolin to the FNMS for $15.12495348667723 after a 10% haggle price.
+Customer 1 sold a Harmonica to the FNMS for $31.309372239654895 after a 10% haggle price.
+Customer 2 sold a CDPlayer to the FNMS for $55.927891949741465 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 18
+Velma arrives at the store on Day 18. The register has $6086.126862055922 in it
+Total value of inventory: $1698.4412940937198
+Velma sold a MusicCD to Customer 0 for $84.5131254720238.
+Velma sold a Cables to Customer 1 for $27.0 after a 10% discount.
+Velma sold a Flute to Customer 2 for $141.0734792929874.
+Velma sold a Guitar to Customer 3 for $52.813966140778014.
+Velma sold a Bandana to Customer 4 for $14.0.
+Velma sold a Bass to Customer 5 for $139.15985503456213.
+Velma sold a Guitar to Customer 6 for $52.813966140778014.
+Customer 0 sold a Bandana to the FNMS for $25.057046814658953
+Velma locks up the store and is going home for the day
+Day = 19
+The FNMS is closed on Sundays, please come back on Monday!
+Day = 20
+Velma arrives at the store on Day 20. The register has $6572.444207322392 in it
+Total value of inventory: $1646.1610202459772
+Velma sold a Cables to Customer 0 for $27.0 after a 10% discount.
+Velma sold a RecordPlayer to Customer 1 for $51.403528188363424 after a 10% discount.
+Velma sold a Mandolin to Customer 2 for $27.224916276019012 after a 10% discount.
+Velma sold a Hats to Customer 3 for $27.0 after a 10% discount.
+Velma sold a PracticeAmps to Customer 4 for $110.56537617522048 after a 10% discount.
+Velma sold a Flute to Customer 5 for $126.96613136368866 after a 10% discount.
+Velma sold a Flute to Customer 6 for $141.0734792929874.
+Velma sold a Vinyl to Customer 7 for $146.12436925981106.
+Customer 0 sold a Guitar to the FNMS for $77.0417148428863
+Customer 1 sold a MusicCD to the FNMS for $22.23843710370354 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 21
+Shaggy arrives at the store on Day 21. The register has $7130.521855931892 in it
+Total value of inventory: $1707.394232526355
+Customer 0 wanted to buy a MP3 but did not like the price, so they left.
+Shaggy sold a MusicCD to Customer 1 for $44.47687420740708.
+Shaggy sold a Guitar to Customer 2 for $138.67508671719534 after a 10% discount.
+Shaggy sold a Harmonica to Customer 3 for $56.35687003137881 after a 10% discount.
+Shaggy sold a MP3 to Customer 4 for $141.88001389666908 after a 10% discount.
+Shaggy sold a PaperScore to Customer 5 for $20.0.
+Shaggy sold a Vinyl to Customer 6 for $146.12436925981106.
+Shaggy sold a Flute to Customer 7 for $126.96613136368866 after a 10% discount.
+Customer 0 sold a Bandana to the FNMS for $52.56950520848439
+Customer 1 sold a RecordPlayer to the FNMS for $35.281748975458676
+Customer 2 sold a MusicCD to the FNMS for $66.7486374032442
+Shaggy locks up the store and is going home for the day
+Day = 22
+Velma arrives at the store on Day 22. The register has $7650.401309820854 in it
+Total value of inventory: $1864.8880165436005
+Velma sold a Flute to Customer 0 for $141.0734792929874.
+Velma sold a Cables to Customer 1 for $30.0.
+Velma sold a CDPlayer to Customer 2 for $100.67020550953464 after a 10% discount.
+Velma sold a Harmonica to Customer 3 for $62.61874447930979.
+Velma sold a Cables to Customer 4 for $30.0.
+Customer 0 sold a Bass to the FNMS for $38.48726296766394 after a 10% haggle price.
+Customer 1 sold a CDPlayer to the FNMS for $72.53199619773387 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 23
+Shaggy arrives at the store on Day 23. The register has $7903.744479937288 in it
+Total value of inventory: $1835.9108959403509
+Customer 0 wanted to buy a MP3 but did not like the price, so they left.
+Shaggy sold a Guitar to Customer 1 for $154.0834296857726.
+Shaggy sold a CDPlayer to Customer 2 for $145.06399239546775.
+Shaggy sold a Shirts to Customer 3 for $133.22500819766157 after a 10% discount.
+Shaggy sold a Shirts to Customer 4 for $148.0277868862906.
+Customer 0 sold a CDPlayer to the FNMS for $67.83003547544524
+Shaggy locks up the store and is going home for the day
+Day = 24
+Velma arrives at the store on Day 24. The register has $8416.314661627037 in it
+Total value of inventory: $1826.5069744957736
+Velma sold a PaperScore to Customer 0 for $20.0.
+Velma sold a Bandana to Customer 1 for $12.6 after a 10% discount.
+Velma sold a PaperScore to Customer 2 for $18.0 after a 10% discount.
+Velma sold a Cables to Customer 3 for $30.0.
+Velma sold a RecordPlayer to Customer 4 for $63.50714815582562 after a 10% discount.
+Customer 5 wanted to buy a Guitar but did not like the price, so they left.
+Customer 6 wanted to buy a Shirts but did not like the price, so they left.
+Customer 0 sold a MusicCD to the FNMS for $71.95165874246808 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 25
+The FNMS is closed on Sundays, please come back on Monday!
+Day = 26
+Velma arrives at the store on Day 26. The register has $8488.470151040396 in it
+Total value of inventory: $1836.9130171742213
+Velma sold a Cables to Customer 0 for $27.0 after a 10% discount.
+Velma sold a Cables to Customer 1 for $27.0 after a 10% discount.
+Velma sold a MusicCD to Customer 2 for $129.51298573644254 after a 10% discount.
+Customer 3 wanted to buy a Vinyl but did not like the price, so they left.
+Velma sold a MP3 to Customer 4 for $141.88001389666908 after a 10% discount.
+Customer 0 sold a CDPlayer to the FNMS for $38.036511359849065 after a 10% haggle price.
+Customer 1 sold a MP3 to the FNMS for $55.4355709836116 after a 10% haggle price.
+Customer 2 sold a Shirts to the FNMS for $24.54107652954383 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 27
+Shaggy arrives at the store on Day 27. The register has $8695.849991800504 in it
+Total value of inventory: $1631.6070171978615
+Shaggy sold a Guitar to Customer 0 for $138.67508671719534 after a 10% discount.
+Shaggy sold a Shirts to Customer 1 for $44.1739377531789 after a 10% discount.
+Shaggy sold a PracticeAmps to Customer 2 for $122.8504179724672.
+Shaggy sold a Harmonica to Customer 3 for $56.35687003137881 after a 10% discount.
+Shaggy sold a MP3 to Customer 4 for $110.8711419672232.
+Shaggy sold a Harmonica to Customer 5 for $62.61874447930979.
+Shaggy sold a Cables to Customer 6 for $27.0 after a 10% discount.
+Customer 0 sold a Bandana to the FNMS for $32.98205198200531 after a 10% haggle price.
+Shaggy locks up the store and is going home for the day
+Day = 28
+Velma arrives at the store on Day 28. The register has $9225.414138739254 in it
+Total value of inventory: $1592.4321107449032
+Velma sold a Mandolin to Customer 0 for $27.224916276019012 after a 10% discount.
+Velma sold a Hats to Customer 1 for $27.0 after a 10% discount.
+Customer 2 wanted to buy a Cables but did not like the price, so they left.
+Velma sold a Mandolin to Customer 3 for $27.224916276019012 after a 10% discount.
+Velma sold a Guitar to Customer 4 for $138.67508671719534 after a 10% discount.
+Velma sold a Bass to Customer 5 for $76.97452593532788.
+Velma sold a RecordPlayer to Customer 6 for $70.56349795091735.
+Velma sold a Cables to Customer 7 for $30.0.
+Velma sold a Flute to Customer 8 for $141.0734792929874.
+Customer 0 sold a Hats to the FNMS for $32.99088104556004 after a 10% haggle price.
+Customer 1 sold a RecordPlayer to the FNMS for $36.66018949681139 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+Day = 29
+Shaggy arrives at the store on Day 29. The register has $9694.499490645347 in it
+Total value of inventory: $1571.1707538787289
+Customer 0 wanted to buy a Bandana but did not like the price, so they left.
+Shaggy sold a Guitar to Customer 1 for $138.67508671719534 after a 10% discount.
+Shaggy sold a Bass to Customer 2 for $76.97452593532788.
+Shaggy sold a Guitar to Customer 3 for $154.0834296857726.
+Customer 4 wanted to buy a RecordPlayer but did not like the price, so they left.
+Shaggy sold a Bandana to Customer 5 for $14.0.
+Shaggy sold a Harmonica to Customer 6 for $56.35687003137881 after a 10% discount.
+Customer 0 sold a Guitar to the FNMS for $69.44503658912987
+Customer 1 wanted to sell a Cables but did not like the price, so they left.
+Shaggy locks up the store and is going home for the day
+Day = 30
+Velma arrives at the store on Day 30. The register has $10065.144366425891 in it
+Total value of inventory: $1555.977397371216
+Velma sold a PaperScore to Customer 0 for $20.0.
+Velma sold a Bandana to Customer 1 for $14.0.
+Customer 2 wanted to buy a MusicCD but did not like the price, so they left.
+Velma sold a Vinyl to Customer 3 for $146.12436925981106.
+Velma sold a Bass to Customer 4 for $76.97452593532788.
+Velma sold a CDPlayer to Customer 5 for $68.46572044772832 after a 10% discount.
+Customer 0 sold a Harmonica to the FNMS for $70.47886196389825
+Customer 1 sold a Hats to the FNMS for $67.5614338109749
+Customer 2 sold a CDPlayer to the FNMS for $32.10540974992905 after a 10% haggle price.
+Velma locks up the store and is going home for the day
+After 30 days of running, the store has: 
+Store Info:
+Inventory contains:
+Guitar
+Bass
+Bandana
+Vinyl
+PaperScore
+MusicCD
+Mandolin
+Flute
+Strings
+Cables
+Shirts
+PracticeAmps
+MP3
+Harmonica
+CDPlayer
+Hats
+Bandanas
+RecordPlayer
+Total value of the inventory is: $845.7976395653462.
+Items Sold:
+Guitar
+Bass
+Bandana
+Vinyl
+PaperScore
+MusicCD
+Mandolin
+Flute
+Strings
+Cables
+Shirts
+PracticeAmps
+MP3
+Harmonica
+CDPlayer
+Hats
+Bandanas
+RecordPlayer
+Total value of the sales is: $11881.76914747545.
+Final amount in the Cash Register is: $10220.563276543955.
+Total money added to the register from the bank is: $1000.0.
+
+Process finished with exit code 0
