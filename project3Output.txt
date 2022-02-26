@@ -1,0 +1,4249 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\lib\idea_rt.jar=63151:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Miguel\code\Spring22OOADProj2\out\production\Spring22OOADProj2 com.OOAD.Main
+ 
+---------------------------------------------
+         *** Simulation day 1 ***
+---------------------------------------------
+Store opens today, day 1
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $0.00 in register.
+Cash register is low on funds.
+Shaggy gets money from the bank.
+Shaggy checks: $1,000.00 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 3 cd
+Shaggy counts 3 vinyl
+Shaggy counts 3 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy counts 3 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy counts 3 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy counts 3 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy is tuning FLUTE2. 
+FLUTE2 was tuned successfully.
+Shaggy is tuning FLUTE3. 
+FLUTE3 was tuned successfully.
+Shaggy counts 3 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy counts 3 hat
+Shaggy counts 3 shirt
+Shaggy counts 3 bandana
+Shaggy counts 3 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 3 strings
+Shaggy counts 3 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 3 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER3. 
+Shaggy tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Shaggy counts 3 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 3 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER3. 
+Shaggy tried to tune RECORDPLAYER3 but was unsuccessful.
+Shaggy counts 3 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy is tuning MP32. 
+Shaggy tried to tune MP32 but was unsuccessful.
+Shaggy is tuning MP33. 
+Shaggy tried to tune MP33 but was unsuccessful.
+Shaggy finds 63 items in store, worth $1,727.00
+-------------BUYING/SELLING-------------
+4 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in good condition.
+Shaggy selling at $70.00
+Shaggy selling at $63.00
+Shaggy is selling gigbag for $63.00 to Buyer 1
+inventory count: 63
+inventory count: 62
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a bass
+Item is bass in fair condition.
+Shaggy selling at $68.00
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a bandana
+Item is bandana in fair condition.
+Shaggy selling at $82.00
+Shaggy is selling bandana for $82.00 to Buyer 3
+inventory count: 62
+inventory count: 61
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a gigbag
+Item is gigbag in good condition.
+Shaggy selling at $4.00
+Shaggy is selling gigbag for $4.00 to Buyer 4
+inventory count: 61
+inventory count: 60
+Shaggy serving Seller 1
+Seller 1 wants to sell a cd
+Item is cd in verygood condition.
+Shaggy offers $17.00
+Shaggy is buying cd for $17.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a gigbag
+Item is gigbag in poor condition.
+Shaggy offers $8.00
+Shaggy is buying gigbag for $8.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a mandolin
+Item is mandolin in verygood condition.
+Shaggy offers $16.00
+Shaggy offers $17.60
+Seller 3 wouldn't sell item.
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 1 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 1
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 3 - 2 - 0
+Daphne - 0 - 0 - 0
+Velma - 0 - 0 - 0
+ 
+---------------------------------------------
+         *** Simulation day 2 ***
+---------------------------------------------
+Store opens today, day 2
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,124.00 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 3 paperscore
+Velma counts 4 cd
+Velma counts 3 vinyl
+Velma counts 3 guitar
+Velma is tuning GUITAR1. 
+Velma damaged GUITAR1. It is now broken and must be discarded.
+Velma tried to tune GUITAR1 but was unsuccessful.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+Velma damaged BASS1.
+Velma tried to tune BASS1 but was unsuccessful.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma counts 3 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+Velma damaged MANDOLIN2. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN2 but was unsuccessful.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma counts 3 flute
+Velma is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Velma is tuning FLUTE2. 
+Velma damaged FLUTE2. It is now broken and must be discarded.
+Velma tried to tune FLUTE2 but was unsuccessful.
+Velma is tuning FLUTE3. 
+FLUTE3 was tuned successfully.
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+Velma damaged HARMONICA1.
+Velma tried to tune HARMONICA1 but was unsuccessful.
+Velma is tuning HARMONICA2. 
+Velma damaged HARMONICA2. It is now broken and must be discarded.
+Velma tried to tune HARMONICA2 but was unsuccessful.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 3 hat
+Velma counts 3 shirt
+Velma counts 2 bandana
+Velma counts 3 practiceamp
+Velma counts 3 cable
+Velma counts 3 strings
+Velma counts 3 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma is tuning SAXOPHONE3. 
+Velma damaged SAXOPHONE3. It is now broken and must be discarded.
+Velma tried to tune SAXOPHONE3 but was unsuccessful.
+Velma counts 3 cassette
+Velma counts 3 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma counts 2 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 3 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma is tuning MP32. 
+Velma tried to tune MP32 but was unsuccessful.
+Velma is tuning MP33. 
+Velma tried to tune MP33 but was unsuccessful.
+Velma finds 62 items in store, worth $1,674.00
+-------------BUYING/SELLING-------------
+3 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a bandana
+Item is bandana in verygood condition.
+Velma selling at $12.00
+Velma selling at $10.80
+Velma is selling bandana for $10.80 to Buyer 1
+inventory count: 62
+inventory count: 61
+Velma serving Buyer 2
+Buyer 2 wants to buy a flute
+Item is flute in poor condition.
+Velma selling at $14.00
+Velma is selling flute for $14.00 to Buyer 2
+inventory count: 61
+inventory count: 60
+Velma serving Buyer 3
+Buyer 3 wants to buy a bass
+Item is bass in fair condition.
+Velma selling at $68.00
+Velma is selling gigbag for $16.00 to Buyer 3
+inventory count: 60
+inventory count: 59
+Velma serving Seller 1
+Seller 1 wants to sell a mandolin
+Item is mandolin in verygood condition.
+Velma offers $16.00
+Velma is buying mandolin for $16.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a mandolin
+Item is mandolin in good condition.
+Velma offers $8.00
+Velma offers $8.80
+Velma is buying mandolin for $8.80 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a strings
+Item is strings in poor condition.
+Velma offers $4.00
+Velma offers $4.40
+Velma is buying strings for $4.40 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a strings
+Item is strings in excellent condition.
+Velma offers $30.00
+Velma is buying strings for $30.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 2 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 2
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 3 - 2 - 0
+Daphne - 0 - 0 - 0
+Velma - 3 - 4 - 7
+ 
+---------------------------------------------
+         *** Simulation day 3 ***
+---------------------------------------------
+Store opens today, day 3
+Daphne is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,105.60 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 3 paperscore
+Velma counts 4 cd
+Velma counts 3 vinyl
+Velma counts 3 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+Velma damaged GUITAR2. It is now broken and must be discarded.
+Velma tried to tune GUITAR2 but was unsuccessful.
+Velma is tuning GUITAR3. 
+Velma damaged GUITAR3.
+Velma tried to tune GUITAR3 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+Velma damaged BASS2.
+Velma tried to tune BASS2 but was unsuccessful.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma counts 5 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma counts 2 flute
+Velma is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Velma is tuning FLUTE2. 
+FLUTE2 was tuned successfully.
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+Velma tried to tune HARMONICA2 but was unsuccessful.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 3 hat
+Velma counts 3 shirt
+Velma counts 1 bandana
+Velma counts 3 practiceamp
+Velma counts 3 cable
+Velma counts 5 strings
+Velma counts 3 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma is tuning SAXOPHONE3. 
+Velma tried to tune SAXOPHONE3 but was unsuccessful.
+Velma counts 3 cassette
+Velma counts 3 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 3 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma is tuning MP32. 
+Velma tried to tune MP32 but was unsuccessful.
+Velma is tuning MP33. 
+Velma tried to tune MP33 but was unsuccessful.
+Velma finds 63 items in store, worth $1,712.20
+-------------BUYING/SELLING-------------
+5 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in good condition.
+Velma selling at $30.00
+Velma selling at $27.00
+Velma is selling recordplayer for $27.00 to Buyer 1
+inventory count: 63
+inventory count: 62
+Velma serving Buyer 2
+Buyer 2 wants to buy a flute
+Item is flute in poor condition.
+Velma selling at $26.00
+Velma is selling flute for $26.00 to Buyer 2
+inventory count: 62
+inventory count: 61
+Velma serving Buyer 3
+Buyer 3 wants to buy a bandana
+Item is bandana in excellent condition.
+Velma selling at $52.00
+Velma selling at $46.80
+Velma is selling bandana for $46.80 to Buyer 3
+inventory count: 61
+inventory count: 60
+Velma serving Buyer 4
+Buyer 4 wants to buy a saxophone
+Item is saxophone in poor condition.
+Velma selling at $72.00
+Velma is selling saxophone for $72.00 to Buyer 4
+inventory count: 60
+inventory count: 59
+Velma serving Buyer 5
+Buyer 5 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Velma selling at $2.00
+Velma selling at $1.80
+Velma is selling paperscore for $1.80 to Buyer 5
+inventory count: 59
+inventory count: 58
+Velma serving Seller 1
+Seller 1 wants to sell a recordplayer
+Item is recordplayer in good condition.
+Velma offers $12.00
+Velma is buying recordplayer for $12.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a mandolin
+Item is mandolin in fair condition.
+Velma offers $12.00
+Velma is buying mandolin for $12.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a shirt
+Item is shirt in good condition.
+Velma offers $11.00
+Velma offers $12.10
+Velma is buying shirt for $12.10 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a guitar
+Item is guitar in excellent condition.
+Velma offers $46.00
+Velma offers $50.60
+Velma is buying guitar for $50.60 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma damaged MP3.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 3 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 3
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 3 - 2 - 0
+Daphne - 0 - 0 - 0
+Velma - 8 - 8 - 11
+ 
+---------------------------------------------
+         *** Simulation day 4 ***
+---------------------------------------------
+Store opens today, day 4
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $1,192.50 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 4 cd
+Shaggy counts 3 vinyl
+Shaggy counts 4 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy counts 3 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy counts 1 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy counts 3 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy counts 3 hat
+Shaggy counts 4 shirt
+Shaggy counts 3 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 5 strings
+Shaggy counts 2 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 3 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER3. 
+Shaggy tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 3 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER3. 
+Shaggy tried to tune RECORDPLAYER3 but was unsuccessful.
+Shaggy counts 3 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy is tuning MP32. 
+Shaggy tried to tune MP32 but was unsuccessful.
+Shaggy is tuning MP33. 
+Shaggy tried to tune MP33 but was unsuccessful.
+Shaggy finds 62 items in store, worth $1,707.90
+-------------BUYING/SELLING-------------
+2 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a flute
+Item is flute in fair condition.
+Shaggy selling at $88.00
+Shaggy is selling flute for $88.00 to Buyer 1
+inventory count: 62
+inventory count: 61
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a mp3
+Item is mp3 in good condition.
+Shaggy selling at $28.00
+Shaggy is selling mp3 for $28.00 to Buyer 2
+inventory count: 61
+inventory count: 60
+Shaggy serving Seller 1
+Seller 1 wants to sell a practiceamp
+Item is practiceamp in poor condition.
+Shaggy offers $2.00
+Shaggy is buying practiceamp for $2.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Shaggy offers $40.00
+Shaggy is buying cassetteplayer for $40.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Shaggy offers $17.00
+Shaggy offers $18.70
+Shaggy is buying vinyl for $18.70 from Seller 3
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 4 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 4
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 5 - 5 - 0
+Daphne - 0 - 0 - 0
+Velma - 8 - 8 - 11
+ 
+---------------------------------------------
+         *** Simulation day 5 ***
+---------------------------------------------
+Store opens today, day 5
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,247.80 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 4 cd
+Velma counts 4 vinyl
+Velma counts 4 guitar
+Velma is tuning GUITAR1. 
+Velma damaged GUITAR1. It is now broken and must be discarded.
+Velma tried to tune GUITAR1 but was unsuccessful.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma damaged GUITAR4.
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+Velma damaged MANDOLIN1. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN1 but was unsuccessful.
+Velma is tuning MANDOLIN2. 
+Velma damaged MANDOLIN2. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN2 but was unsuccessful.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma needs to order flute
+Velma ordered a flute
+Velma ordered a flute
+Velma ordered a flute
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 3 hat
+Velma counts 4 shirt
+Velma counts 4 practiceamp
+Velma counts 3 cable
+Velma counts 5 strings
+Velma counts 2 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma counts 3 cassette
+Velma counts 4 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER4. 
+Velma tried to tune CASSETTEPLAYER4 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 2 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma is tuning MP32. 
+Velma tried to tune MP32 but was unsuccessful.
+Velma finds 63 items in store, worth $1,710.60
+-------------BUYING/SELLING-------------
+9 buyers, 2 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cd
+Item is cd in verygood condition.
+Velma selling at $34.00
+Velma selling at $30.60
+Velma is selling cd for $30.60 to Buyer 1
+inventory count: 63
+inventory count: 62
+Velma serving Buyer 2
+Buyer 2 wants to buy a shirt
+Item is shirt in good condition.
+Velma selling at $24.20
+Velma selling at $21.78
+Velma is selling shirt for $21.78 to Buyer 2
+inventory count: 62
+inventory count: 61
+Velma serving Buyer 3
+Buyer 3 wants to buy a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Velma selling at $80.00
+Velma is selling cassetteplayer for $80.00 to Buyer 3
+inventory count: 61
+inventory count: 60
+Velma serving Buyer 4
+Buyer 4 wants to buy a mp3
+Item is mp3 in good condition.
+Velma selling at $84.00
+Velma selling at $75.60
+Velma is selling mp3 for $75.60 to Buyer 4
+inventory count: 60
+inventory count: 59
+Velma serving Buyer 5
+Buyer 5 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Velma selling at $70.00
+Velma is selling cdplayer for $70.00 to Buyer 5
+inventory count: 59
+inventory count: 58
+Velma serving Buyer 6
+Buyer 6 wants to buy a flute
+Buyer 6 leaves, no items in stock.
+Velma serving Buyer 7
+Buyer 7 wants to buy a recordplayer
+Item is recordplayer in good condition.
+Velma selling at $24.00
+Velma is selling recordplayer for $24.00 to Buyer 7
+inventory count: 58
+inventory count: 57
+Velma serving Buyer 8
+Buyer 8 wants to buy a cassetteplayer
+Item is cassetteplayer in poor condition.
+Velma selling at $56.00
+Velma selling at $50.40
+Velma is selling cassetteplayer for $50.40 to Buyer 8
+inventory count: 57
+inventory count: 56
+Velma serving Buyer 9
+Buyer 9 wants to buy a cdplayer
+Item is cdplayer in fair condition.
+Velma selling at $72.00
+Velma selling at $64.80
+Velma is selling cdplayer for $64.80 to Buyer 9
+inventory count: 56
+inventory count: 55
+Velma serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in good condition.
+Velma offers $24.00
+Velma is buying cassetteplayer for $24.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in excellent condition.
+Velma offers $45.00
+Velma offers $49.50
+Velma is buying harmonica for $49.50 from Seller 2
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 5 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 5
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 5 - 5 - 0
+Daphne - 0 - 0 - 0
+Velma - 16 - 10 - 15
+ 
+---------------------------------------------
+         *** Simulation day 6 ***
+---------------------------------------------
+Store opens today, day 6
+Daphne is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,591.48 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 4 vinyl
+Velma counts 4 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma needs to order flute
+There is an order coming for flute
+Velma counts 4 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma is tuning HARMONICA4. 
+Velma tried to tune HARMONICA4 but was unsuccessful.
+Velma counts 3 hat
+Velma counts 3 shirt
+Velma counts 4 practiceamp
+Velma counts 3 cable
+Velma counts 5 strings
+Velma counts 2 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+Velma damaged SAXOPHONE2.
+Velma tried to tune SAXOPHONE2 but was unsuccessful.
+Velma counts 3 cassette
+Velma counts 3 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 1 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma counts 2 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma counts 1 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma finds 57 items in store, worth $1,562.00
+-------------BUYING/SELLING-------------
+2 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cassette
+Item is cassette in verygood condition.
+Velma selling at $78.00
+Velma selling at $70.20
+Velma is selling cassette for $70.20 to Buyer 1
+inventory count: 57
+inventory count: 56
+Velma serving Buyer 2
+Buyer 2 wants to buy a guitar
+Item is guitar in verygood condition.
+Velma selling at $101.20
+Velma selling at $91.08
+Velma serving Seller 1
+Seller 1 wants to sell a practiceamp
+Item is practiceamp in fair condition.
+Velma offers $7.00
+Velma is buying practiceamp for $7.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a flute
+Item is flute in excellent condition.
+Velma offers $40.00
+Velma is buying flute for $40.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a practiceamp
+Item is practiceamp in verygood condition.
+Velma offers $38.00
+Velma is buying practiceamp for $38.00 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a practiceamp
+Item is practiceamp in verygood condition.
+Velma offers $37.00
+Velma is buying practiceamp for $37.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 6 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 6
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 5 - 5 - 0
+Daphne - 0 - 0 - 0
+Velma - 17 - 14 - 16
+ 
+---------------------------------------------
+         *** Simulation day 7 ***
+---------------------------------------------
+Store is closed today, day 7
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 5 - 5 - 0
+Daphne - 0 - 0 - 0
+Velma - 17 - 14 - 16
+ 
+---------------------------------------------
+         *** Simulation day 8 ***
+---------------------------------------------
+Store opens today, day 8
+Daphne is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,539.68 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 4 vinyl
+Velma counts 4 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+Velma damaged BASS3. It is now broken and must be discarded.
+Velma tried to tune BASS3 but was unsuccessful.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+Velma damaged MANDOLIN1. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN1 but was unsuccessful.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma counts 1 flute
+Velma is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Velma counts 4 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+Velma damaged HARMONICA3. It is now broken and must be discarded.
+Velma tried to tune HARMONICA3 but was unsuccessful.
+Velma is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Velma counts 3 hat
+Velma counts 3 shirt
+Velma counts 7 practiceamp
+Velma counts 3 cable
+Velma counts 5 strings
+Velma counts 2 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma counts 2 cassette
+Velma counts 3 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 1 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma counts 2 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma counts 1 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma finds 60 items in store, worth $1,645.00
+-------------BUYING/SELLING-------------
+2 buyers, 1 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a bandana
+Buyer 1 leaves, no items in stock.
+Velma serving Buyer 2
+Buyer 2 wants to buy a recordplayer
+Item is recordplayer in excellent condition.
+Velma selling at $54.00
+Velma is selling recordplayer for $54.00 to Buyer 2
+inventory count: 60
+inventory count: 59
+Velma serving Seller 1
+Seller 1 wants to sell a harmonica
+Item is harmonica in good condition.
+Velma offers $20.00
+Velma is buying harmonica for $20.00 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 8 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 8
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 5 - 5 - 0
+Daphne - 0 - 0 - 0
+Velma - 18 - 15 - 19
+ 
+---------------------------------------------
+         *** Simulation day 9 ***
+---------------------------------------------
+Store opens today, day 9
+Daphne is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $1,573.68 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 3 cd
+Shaggy counts 4 vinyl
+Shaggy counts 4 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy counts 3 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy counts 1 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy counts 5 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Shaggy counts 3 hat
+Shaggy counts 3 shirt
+Shaggy counts 7 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 5 strings
+Shaggy counts 2 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy counts 2 cassette
+Shaggy counts 3 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER3. 
+Shaggy tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 1 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy counts 1 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy counts 1 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy finds 60 items in store, worth $1,638.00
+-------------BUYING/SELLING-------------
+2 buyers, 4 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a harmonica
+Item is harmonica in good condition.
+Shaggy selling at $40.00
+Shaggy is selling harmonica for $40.00 to Buyer 1
+inventory count: 60
+inventory count: 59
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a recordplayer
+Item is recordplayer in verygood condition.
+Shaggy selling at $60.00
+Shaggy is selling recordplayer for $60.00 to Buyer 2
+inventory count: 59
+inventory count: 58
+Shaggy serving Seller 1
+Seller 1 wants to sell a harmonica
+Item is harmonica in good condition.
+Shaggy offers $8.00
+Shaggy offers $8.80
+Seller 1 wouldn't sell item.
+Shaggy serving Seller 2
+Seller 2 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Shaggy offers $32.00
+Shaggy is buying vinyl for $32.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a strings
+Item is strings in verygood condition.
+Shaggy offers $23.00
+Shaggy is buying strings for $23.00 from Seller 3
+Shaggy serving Seller 4
+Seller 4 wants to sell a vinyl
+Item is vinyl in verygood condition.
+Shaggy offers $30.00
+Shaggy is buying vinyl for $30.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 9 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 9
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 7 - 8 - 0
+Daphne - 0 - 0 - 0
+Velma - 18 - 15 - 19
+ 
+---------------------------------------------
+         *** Simulation day 10 ***
+---------------------------------------------
+Store opens today, day 10
+Daphne is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $1,588.68 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 3 cd
+Shaggy counts 6 vinyl
+Shaggy counts 4 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy counts 3 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy counts 1 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy counts 4 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy counts 3 hat
+Shaggy counts 3 shirt
+Shaggy counts 7 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 6 strings
+Shaggy counts 2 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy counts 2 cassette
+Shaggy counts 3 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER3. 
+Shaggy tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 1 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy needs to order recordplayer
+Shaggy ordered a recordplayer
+Shaggy ordered a recordplayer
+Shaggy ordered a recordplayer
+Shaggy counts 1 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy finds 61 items in store, worth $1,673.00
+-------------BUYING/SELLING-------------
+3 buyers, 1 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a harmonica
+Item is harmonica in excellent condition.
+Shaggy selling at $99.00
+Shaggy is selling harmonica for $99.00 to Buyer 1
+inventory count: 61
+inventory count: 60
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a saxophone
+Item is saxophone in verygood condition.
+Shaggy selling at $34.00
+Shaggy selling at $30.60
+Shaggy is selling saxophone for $30.60 to Buyer 2
+inventory count: 60
+inventory count: 59
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a paperscore
+Item is paperscore in poor condition.
+Shaggy selling at $4.00
+Shaggy selling at $3.60
+Shaggy is selling paperscore for $3.60 to Buyer 3
+inventory count: 59
+inventory count: 58
+Shaggy serving Seller 1
+Seller 1 wants to sell a hat
+Item is hat in fair condition.
+Shaggy offers $10.00
+Shaggy is buying hat for $10.00 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 10 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 10
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 10 - 9 - 0
+Daphne - 0 - 0 - 0
+Velma - 18 - 15 - 19
+ 
+---------------------------------------------
+         *** Simulation day 11 ***
+---------------------------------------------
+Store opens today, day 11
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+Velma adds recordplayer to inventory.
+Velma adds recordplayer to inventory.
+Velma adds recordplayer to inventory.
+-----------------------------------------
+Velma checks: $1,711.88 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 1 paperscore
+Velma counts 3 cd
+Velma counts 6 vinyl
+Velma counts 4 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma damaged GUITAR4.
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+Velma damaged MANDOLIN3.
+Velma tried to tune MANDOLIN3 but was unsuccessful.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+Velma damaged MANDOLIN6. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN6 but was unsuccessful.
+Velma counts 1 flute
+Velma is tuning FLUTE1. 
+Velma damaged FLUTE1.
+Velma tried to tune FLUTE1 but was unsuccessful.
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+Velma damaged HARMONICA2. It is now broken and must be discarded.
+Velma tried to tune HARMONICA2 but was unsuccessful.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 4 hat
+Velma counts 3 shirt
+Velma counts 7 practiceamp
+Velma counts 3 cable
+Velma counts 6 strings
+Velma counts 1 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma counts 2 cassette
+Velma counts 3 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER3. 
+Velma tried to tune CASSETTEPLAYER3 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 1 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 1 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma finds 62 items in store, worth $1,689.50
+-------------BUYING/SELLING-------------
+4 buyers, 1 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a practiceamp
+Item is practiceamp in verygood condition.
+Velma selling at $74.00
+Velma selling at $66.60
+Velma is selling practiceamp for $66.60 to Buyer 1
+inventory count: 62
+inventory count: 61
+Velma serving Buyer 2
+Buyer 2 wants to buy a cdplayer
+Item is cdplayer in excellent condition.
+Velma selling at $36.00
+Velma selling at $32.40
+Velma is selling cdplayer for $32.40 to Buyer 2
+inventory count: 61
+inventory count: 60
+Velma serving Buyer 3
+Buyer 3 wants to buy a cassetteplayer
+Item is cassetteplayer in good condition.
+Velma selling at $48.00
+Velma selling at $43.20
+Velma is selling cassetteplayer for $43.20 to Buyer 3
+inventory count: 60
+inventory count: 59
+Velma serving Buyer 4
+Buyer 4 wants to buy a guitar
+Item is guitar in good condition.
+Velma selling at $91.08
+Velma selling at $81.97
+Velma serving Seller 1
+Seller 1 wants to sell a strings
+Item is strings in excellent condition.
+Velma offers $42.00
+Velma is buying strings for $42.00 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma damaged RECORDPLAYER. It is now broken and must be discarded.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 11 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 11
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 10 - 9 - 0
+Daphne - 0 - 0 - 0
+Velma - 21 - 16 - 25
+ 
+---------------------------------------------
+         *** Simulation day 12 ***
+---------------------------------------------
+Store opens today, day 12
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $1,812.08 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 1 paperscore
+Velma counts 3 cd
+Velma counts 6 vinyl
+Velma counts 4 guitar
+Velma is tuning GUITAR1. 
+Velma damaged GUITAR1. It is now broken and must be discarded.
+Velma tried to tune GUITAR1 but was unsuccessful.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma counts 3 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+Velma damaged BASS2. It is now broken and must be discarded.
+Velma tried to tune BASS2 but was unsuccessful.
+Velma is tuning BASS3. 
+Velma damaged BASS3. It is now broken and must be discarded.
+Velma tried to tune BASS3 but was unsuccessful.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma counts 1 flute
+Velma is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+Velma tried to tune HARMONICA2 but was unsuccessful.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 4 hat
+Velma counts 3 shirt
+Velma counts 6 practiceamp
+Velma counts 3 cable
+Velma counts 7 strings
+Velma counts 1 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma counts 2 cassette
+Velma counts 2 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma counts 1 gigbag
+Velma needs to order cdplayer
+Velma ordered a cdplayer
+Velma ordered a cdplayer
+Velma ordered a cdplayer
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 1 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma finds 60 items in store, worth $1,652.50
+-------------BUYING/SELLING-------------
+2 buyers, 2 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a practiceamp
+Item is practiceamp in verygood condition.
+Velma selling at $76.00
+Velma is selling practiceamp for $76.00 to Buyer 1
+inventory count: 60
+inventory count: 59
+Velma serving Buyer 2
+Buyer 2 wants to buy a mandolin
+Item is mandolin in poor condition.
+Velma selling at $24.00
+Velma selling at $21.60
+Velma is selling gigbag for $74.00 to Buyer 2
+inventory count: 59
+inventory count: 58
+Velma serving Seller 1
+Seller 1 wants to sell a cassette
+Item is cassette in good condition.
+Velma offers $28.00
+Velma offers $30.80
+Velma is buying cassette for $30.80 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a bass
+Item is bass in excellent condition.
+Velma offers $36.00
+Velma is buying bass for $36.00 from Seller 2
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 12 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 12
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 10 - 9 - 0
+Daphne - 0 - 0 - 0
+Velma - 23 - 18 - 28
+ 
+---------------------------------------------
+         *** Simulation day 13 ***
+---------------------------------------------
+Store opens today, day 13
+Daphne is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $1,895.28 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 1 paperscore
+Shaggy counts 3 cd
+Shaggy counts 6 vinyl
+Shaggy counts 4 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy counts 4 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy counts 1 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy counts 3 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy counts 4 hat
+Shaggy counts 3 shirt
+Shaggy counts 5 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 7 strings
+Shaggy counts 1 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 2 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy needs to order gigbag
+Shaggy ordered a gigbag
+Shaggy ordered a gigbag
+Shaggy ordered a gigbag
+Shaggy needs to order cdplayer
+There is an order coming for cdplayer
+Shaggy counts 3 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER3. 
+Shaggy tried to tune RECORDPLAYER3 but was unsuccessful.
+Shaggy counts 1 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy finds 60 items in store, worth $1,644.30
+-------------BUYING/SELLING-------------
+3 buyers, 4 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a hat
+Item is hat in fair condition.
+Shaggy selling at $20.00
+Shaggy is selling hat for $20.00 to Buyer 1
+inventory count: 60
+inventory count: 59
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Shaggy selling at $64.00
+Shaggy selling at $57.60
+Buyer 2 wouldn't buy item.
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a cassetteplayer
+Item is cassetteplayer in verygood condition.
+Shaggy selling at $64.00
+Shaggy is selling cassetteplayer for $64.00 to Buyer 3
+inventory count: 59
+inventory count: 58
+Shaggy serving Seller 1
+Seller 1 wants to sell a guitar
+Item is guitar in poor condition.
+Shaggy offers $8.00
+Shaggy is buying guitar for $8.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a flute
+Item is flute in excellent condition.
+Shaggy offers $38.00
+Shaggy offers $41.80
+Shaggy is buying flute for $41.80 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a saxophone
+Item is saxophone in poor condition.
+Shaggy offers $5.00
+Shaggy is buying saxophone for $5.00 from Seller 3
+Shaggy serving Seller 4
+Seller 4 wants to sell a hat
+Item is hat in poor condition.
+Shaggy offers $6.00
+Shaggy is buying hat for $6.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 13 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 13
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 12 - 13 - 0
+Daphne - 0 - 0 - 0
+Velma - 23 - 18 - 28
+ 
+---------------------------------------------
+         *** Simulation day 14 ***
+---------------------------------------------
+Store is closed today, day 14
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 12 - 13 - 0
+Daphne - 0 - 0 - 0
+Velma - 23 - 18 - 28
+ 
+---------------------------------------------
+         *** Simulation day 15 ***
+---------------------------------------------
+Store opens today, day 15
+Shaggy is sick and cannot work today.
+Daphne is working today.
+Daphne arrives at store.
+Daphne checking for arriving items.
+Daphne adds cdplayer to inventory.
+Daphne adds cdplayer to inventory.
+Daphne adds cdplayer to inventory.
+Daphne adds gigbag to inventory.
+Daphne adds gigbag to inventory.
+Daphne adds gigbag to inventory.
+-----------------------------------------
+Daphne checks: $1,918.48 in register.
+-------------DOING INVENTORY-------------
+Daphne is doing inventory.
+Daphne counts 1 paperscore
+Daphne counts 3 cd
+Daphne counts 6 vinyl
+Daphne counts 5 guitar
+Daphne is tuning GUITAR1. 
+Daphne damaged GUITAR1. It is now broken and must be discarded.
+Daphne tried to tune GUITAR1 but was unsuccessful.
+Daphne is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Daphne is tuning GUITAR3. 
+Daphne damaged GUITAR3.
+Daphne tried to tune GUITAR3 but was unsuccessful.
+Daphne is tuning GUITAR4. 
+Daphne damaged GUITAR4.
+Daphne tried to tune GUITAR4 but was unsuccessful.
+Daphne is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Daphne counts 4 bass
+Daphne is tuning BASS1. 
+Daphne damaged BASS1.
+Daphne tried to tune BASS1 but was unsuccessful.
+Daphne is tuning BASS2. 
+Daphne damaged BASS2. It is now broken and must be discarded.
+Daphne tried to tune BASS2 but was unsuccessful.
+Daphne is tuning BASS3. 
+Daphne damaged BASS3. It is now broken and must be discarded.
+Daphne tried to tune BASS3 but was unsuccessful.
+Daphne is tuning BASS4. 
+Daphne damaged BASS4.
+Daphne tried to tune BASS4 but was unsuccessful.
+Daphne counts 6 mandolin
+Daphne is tuning MANDOLIN1. 
+Daphne damaged MANDOLIN1. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN1 but was unsuccessful.
+Daphne is tuning MANDOLIN2. 
+Daphne damaged MANDOLIN2. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN2 but was unsuccessful.
+Daphne is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Daphne is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Daphne is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Daphne is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Daphne counts 2 flute
+Daphne is tuning FLUTE1. 
+Daphne damaged FLUTE1.
+Daphne tried to tune FLUTE1 but was unsuccessful.
+Daphne is tuning FLUTE2. 
+Daphne tried to tune FLUTE2 but was unsuccessful.
+Daphne counts 3 harmonica
+Daphne is tuning HARMONICA1. 
+Daphne damaged HARMONICA1. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA1 but was unsuccessful.
+Daphne is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Daphne is tuning HARMONICA3. 
+Daphne damaged HARMONICA3. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA3 but was unsuccessful.
+Daphne counts 4 hat
+Daphne counts 3 shirt
+Daphne counts 5 practiceamp
+Daphne counts 3 cable
+Daphne counts 7 strings
+Daphne counts 2 saxophone
+Daphne is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Daphne is tuning SAXOPHONE2. 
+Daphne tried to tune SAXOPHONE2 but was unsuccessful.
+Daphne counts 3 cassette
+Daphne counts 1 cassetteplayer
+Daphne is tuning CASSETTEPLAYER1. 
+Daphne tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Daphne counts 3 gigbag
+Daphne counts 3 cdplayer
+Daphne is tuning CDPLAYER1. 
+Daphne tried to tune CDPLAYER1 but was unsuccessful.
+Daphne is tuning CDPLAYER2. 
+Daphne tried to tune CDPLAYER2 but was unsuccessful.
+Daphne is tuning CDPLAYER3. 
+Daphne tried to tune CDPLAYER3 but was unsuccessful.
+Daphne counts 3 recordplayer
+Daphne is tuning RECORDPLAYER1. 
+Daphne tried to tune RECORDPLAYER1 but was unsuccessful.
+Daphne is tuning RECORDPLAYER2. 
+Daphne tried to tune RECORDPLAYER2 but was unsuccessful.
+Daphne is tuning RECORDPLAYER3. 
+Daphne tried to tune RECORDPLAYER3 but was unsuccessful.
+Daphne counts 1 mp3
+Daphne is tuning MP31. 
+Daphne tried to tune MP31 but was unsuccessful.
+Daphne finds 68 items in store, worth $1,825.10
+-------------BUYING/SELLING-------------
+2 buyers, 1 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a cable
+Item is cable in excellent condition.
+Daphne selling at $92.00
+Daphne is selling cable for $92.00 to Buyer 1
+inventory count: 68
+inventory count: 67
+Daphne serving Buyer 2
+Buyer 2 wants to buy a strings
+Item is strings in excellent condition.
+Daphne selling at $84.00
+Daphne is selling strings for $84.00 to Buyer 2
+inventory count: 67
+inventory count: 66
+Daphne serving Seller 1
+Seller 1 wants to sell a recordplayer
+Item is recordplayer in fair condition.
+Daphne offers $5.00
+Daphne offers $5.50
+Daphne is buying recordplayer for $5.50 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Daphne is cleaning up the store.
+Daphne doesn't damage anything while cleaning.
+Daphne locks up the store and leaves.
+---------------------------------------------
+               DAY 15 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 15
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 12 - 13 - 0
+Daphne - 2 - 1 - 12
+Velma - 23 - 18 - 28
+ 
+---------------------------------------------
+         *** Simulation day 16 ***
+---------------------------------------------
+Store opens today, day 16
+Daphne is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $2,088.98 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 1 paperscore
+Velma counts 3 cd
+Velma counts 6 vinyl
+Velma counts 5 guitar
+Velma is tuning GUITAR1. 
+Velma tried to tune GUITAR1 but was unsuccessful.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Velma is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Velma counts 4 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+Velma tried to tune BASS2 but was unsuccessful.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma is tuning BASS4. 
+Velma tried to tune BASS4 but was unsuccessful.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+Velma damaged MANDOLIN6. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN6 but was unsuccessful.
+Velma counts 2 flute
+Velma is tuning FLUTE1. 
+Velma tried to tune FLUTE1 but was unsuccessful.
+Velma is tuning FLUTE2. 
+FLUTE2 was tuned successfully.
+Velma counts 3 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma counts 4 hat
+Velma counts 3 shirt
+Velma counts 5 practiceamp
+Velma counts 2 cable
+Velma counts 6 strings
+Velma counts 2 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma counts 3 cassette
+Velma counts 1 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma counts 3 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 4 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma is tuning RECORDPLAYER4. 
+Velma tried to tune RECORDPLAYER4 but was unsuccessful.
+Velma counts 1 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma finds 67 items in store, worth $1,742.60
+-------------BUYING/SELLING-------------
+2 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in verygood condition.
+Velma selling at $48.00
+Velma is selling gigbag for $48.00 to Buyer 1
+inventory count: 67
+inventory count: 66
+Velma serving Buyer 2
+Buyer 2 wants to buy a practiceamp
+Item is practiceamp in fair condition.
+Velma selling at $14.00
+Velma is selling practiceamp for $14.00 to Buyer 2
+inventory count: 66
+inventory count: 65
+Velma serving Seller 1
+Seller 1 wants to sell a saxophone
+Item is saxophone in good condition.
+Velma offers $16.00
+Velma is buying saxophone for $16.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in poor condition.
+Velma offers $10.00
+Velma offers $11.00
+Velma is buying harmonica for $11.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a bandana
+Item is bandana in fair condition.
+Velma offers $4.00
+Velma offers $4.40
+Seller 3 wouldn't sell item.
+Velma serving Seller 4
+Seller 4 wants to sell a guitar
+Item is guitar in excellent condition.
+Velma offers $37.00
+Velma offers $40.70
+Velma is buying guitar for $40.70 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 16 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 16
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 12 - 13 - 0
+Daphne - 2 - 1 - 12
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 17 ***
+---------------------------------------------
+Store opens today, day 17
+Shaggy is sick and cannot work today.
+Daphne is working today.
+Daphne arrives at store.
+Daphne checking for arriving items.
+-----------------------------------------
+Daphne checks: $2,083.28 in register.
+-------------DOING INVENTORY-------------
+Daphne is doing inventory.
+Daphne counts 1 paperscore
+Daphne counts 3 cd
+Daphne counts 6 vinyl
+Daphne counts 6 guitar
+Daphne is tuning GUITAR1. 
+Daphne tried to tune GUITAR1 but was unsuccessful.
+Daphne is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Daphne is tuning GUITAR3. 
+Daphne damaged GUITAR3.
+Daphne tried to tune GUITAR3 but was unsuccessful.
+Daphne is tuning GUITAR4. 
+Daphne damaged GUITAR4. It is now broken and must be discarded.
+Daphne tried to tune GUITAR4 but was unsuccessful.
+Daphne is tuning GUITAR5. 
+Daphne damaged GUITAR5. It is now broken and must be discarded.
+Daphne tried to tune GUITAR5 but was unsuccessful.
+Daphne is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Daphne counts 4 bass
+Daphne is tuning BASS1. 
+BASS1 was tuned successfully.
+Daphne is tuning BASS2. 
+Daphne tried to tune BASS2 but was unsuccessful.
+Daphne is tuning BASS3. 
+BASS3 was tuned successfully.
+Daphne is tuning BASS4. 
+Daphne tried to tune BASS4 but was unsuccessful.
+Daphne counts 6 mandolin
+Daphne is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Daphne is tuning MANDOLIN2. 
+Daphne damaged MANDOLIN2. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN2 but was unsuccessful.
+Daphne is tuning MANDOLIN3. 
+Daphne damaged MANDOLIN3.
+Daphne tried to tune MANDOLIN3 but was unsuccessful.
+Daphne is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Daphne is tuning MANDOLIN5. 
+Daphne damaged MANDOLIN5.
+Daphne tried to tune MANDOLIN5 but was unsuccessful.
+Daphne is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Daphne counts 2 flute
+Daphne is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Daphne is tuning FLUTE2. 
+FLUTE2 was tuned successfully.
+Daphne counts 4 harmonica
+Daphne is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Daphne is tuning HARMONICA2. 
+Daphne damaged HARMONICA2. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA2 but was unsuccessful.
+Daphne is tuning HARMONICA3. 
+Daphne damaged HARMONICA3. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA3 but was unsuccessful.
+Daphne is tuning HARMONICA4. 
+Daphne tried to tune HARMONICA4 but was unsuccessful.
+Daphne counts 4 hat
+Daphne counts 3 shirt
+Daphne counts 4 practiceamp
+Daphne counts 2 cable
+Daphne counts 6 strings
+Daphne counts 3 saxophone
+Daphne is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Daphne is tuning SAXOPHONE2. 
+Daphne damaged SAXOPHONE2. It is now broken and must be discarded.
+Daphne tried to tune SAXOPHONE2 but was unsuccessful.
+Daphne is tuning SAXOPHONE3. 
+Daphne tried to tune SAXOPHONE3 but was unsuccessful.
+Daphne counts 3 cassette
+Daphne counts 1 cassetteplayer
+Daphne is tuning CASSETTEPLAYER1. 
+Daphne tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Daphne counts 2 gigbag
+Daphne counts 3 cdplayer
+Daphne is tuning CDPLAYER1. 
+Daphne tried to tune CDPLAYER1 but was unsuccessful.
+Daphne is tuning CDPLAYER2. 
+Daphne tried to tune CDPLAYER2 but was unsuccessful.
+Daphne is tuning CDPLAYER3. 
+Daphne tried to tune CDPLAYER3 but was unsuccessful.
+Daphne counts 4 recordplayer
+Daphne is tuning RECORDPLAYER1. 
+Daphne tried to tune RECORDPLAYER1 but was unsuccessful.
+Daphne is tuning RECORDPLAYER2. 
+Daphne tried to tune RECORDPLAYER2 but was unsuccessful.
+Daphne is tuning RECORDPLAYER3. 
+Daphne tried to tune RECORDPLAYER3 but was unsuccessful.
+Daphne is tuning RECORDPLAYER4. 
+Daphne tried to tune RECORDPLAYER4 but was unsuccessful.
+Daphne counts 1 mp3
+Daphne is tuning MP31. 
+Daphne tried to tune MP31 but was unsuccessful.
+Daphne finds 68 items in store, worth $1,779.30
+-------------BUYING/SELLING-------------
+3 buyers, 2 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a recordplayer
+Item is recordplayer in fair condition.
+Daphne selling at $11.00
+Daphne is selling recordplayer for $11.00 to Buyer 1
+inventory count: 68
+inventory count: 67
+Daphne serving Buyer 2
+Buyer 2 wants to buy a gigbag
+Item is gigbag in good condition.
+Daphne selling at $26.00
+Daphne selling at $23.40
+Buyer 2 wouldn't buy item.
+Daphne serving Buyer 3
+Buyer 3 wants to buy a cassette
+Item is cassette in good condition.
+Daphne selling at $61.60
+Daphne is selling cassette for $61.60 to Buyer 3
+inventory count: 67
+inventory count: 66
+Daphne serving Seller 1
+Seller 1 wants to sell a paperscore
+Item is paperscore in verygood condition.
+Daphne offers $15.00
+Daphne is buying paperscore for $15.00 from Seller 1
+Daphne serving Seller 2
+Seller 2 wants to sell a bandana
+Item is bandana in poor condition.
+Daphne offers $8.00
+Daphne is buying bandana for $8.00 from Seller 2
+-------------END OF DAY ACTIONS-------------
+Daphne is cleaning up the store.
+Daphne doesn't damage anything while cleaning.
+Daphne locks up the store and leaves.
+---------------------------------------------
+               DAY 17 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 17
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 12 - 13 - 0
+Daphne - 4 - 3 - 21
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 18 ***
+---------------------------------------------
+Store opens today, day 18
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $2,132.88 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 2 paperscore
+Shaggy counts 3 cd
+Shaggy counts 6 vinyl
+Shaggy counts 6 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Shaggy is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Shaggy counts 4 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy counts 2 flute
+Shaggy is tuning FLUTE1. 
+FLUTE1 was tuned successfully.
+Shaggy is tuning FLUTE2. 
+FLUTE2 was tuned successfully.
+Shaggy counts 4 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy counts 4 hat
+Shaggy counts 3 shirt
+Shaggy counts 1 bandana
+Shaggy counts 4 practiceamp
+Shaggy counts 2 cable
+Shaggy counts 6 strings
+Shaggy counts 3 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Shaggy counts 2 cassette
+Shaggy counts 1 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy counts 2 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 3 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER3. 
+Shaggy tried to tune RECORDPLAYER3 but was unsuccessful.
+Shaggy counts 1 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy finds 68 items in store, worth $1,766.00
+-------------BUYING/SELLING-------------
+4 buyers, 1 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a flute
+Item is flute in excellent condition.
+Shaggy selling at $83.60
+Shaggy is selling flute for $83.60 to Buyer 1
+inventory count: 68
+inventory count: 67
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Shaggy selling at $60.00
+Shaggy is selling vinyl for $60.00 to Buyer 2
+inventory count: 67
+inventory count: 66
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in good condition.
+Shaggy selling at $80.00
+Shaggy is selling flute for $80.00 to Buyer 3
+inventory count: 66
+inventory count: 65
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a bass
+Item is bass in verygood condition.
+Shaggy selling at $72.00
+Shaggy selling at $64.80
+Shaggy is selling cable for $88.00 to Buyer 4
+inventory count: 65
+inventory count: 64
+Shaggy serving Seller 1
+Seller 1 wants to sell a recordplayer
+Item is recordplayer in fair condition.
+Shaggy offers $11.00
+Shaggy is buying recordplayer for $11.00 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 18 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 18
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 16 - 14 - 0
+Daphne - 4 - 3 - 21
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 19 ***
+---------------------------------------------
+Store opens today, day 19
+Velma is sick and cannot work today.
+Daphne is working today.
+Daphne arrives at store.
+Daphne checking for arriving items.
+-----------------------------------------
+Daphne checks: $2,433.48 in register.
+-------------DOING INVENTORY-------------
+Daphne is doing inventory.
+Daphne counts 2 paperscore
+Daphne counts 3 cd
+Daphne counts 5 vinyl
+Daphne counts 6 guitar
+Daphne is tuning GUITAR1. 
+Daphne damaged GUITAR1. It is now broken and must be discarded.
+Daphne tried to tune GUITAR1 but was unsuccessful.
+Daphne is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Daphne is tuning GUITAR3. 
+Daphne damaged GUITAR3. It is now broken and must be discarded.
+Daphne tried to tune GUITAR3 but was unsuccessful.
+Daphne is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Daphne is tuning GUITAR5. 
+Daphne damaged GUITAR5. It is now broken and must be discarded.
+Daphne tried to tune GUITAR5 but was unsuccessful.
+Daphne is tuning GUITAR6. 
+Daphne damaged GUITAR6.
+Daphne tried to tune GUITAR6 but was unsuccessful.
+Daphne counts 4 bass
+Daphne is tuning BASS1. 
+Daphne damaged BASS1.
+Daphne tried to tune BASS1 but was unsuccessful.
+Daphne is tuning BASS2. 
+Daphne damaged BASS2. It is now broken and must be discarded.
+Daphne tried to tune BASS2 but was unsuccessful.
+Daphne is tuning BASS3. 
+BASS3 was tuned successfully.
+Daphne is tuning BASS4. 
+Daphne damaged BASS4.
+Daphne tried to tune BASS4 but was unsuccessful.
+Daphne counts 6 mandolin
+Daphne is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Daphne is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Daphne is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Daphne is tuning MANDOLIN4. 
+Daphne damaged MANDOLIN4.
+Daphne tried to tune MANDOLIN4 but was unsuccessful.
+Daphne is tuning MANDOLIN5. 
+Daphne damaged MANDOLIN5. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN5 but was unsuccessful.
+Daphne is tuning MANDOLIN6. 
+Daphne damaged MANDOLIN6. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN6 but was unsuccessful.
+Daphne needs to order flute
+There is an order coming for flute
+Daphne counts 4 harmonica
+Daphne is tuning HARMONICA1. 
+Daphne damaged HARMONICA1. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA1 but was unsuccessful.
+Daphne is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Daphne is tuning HARMONICA3. 
+Daphne damaged HARMONICA3. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA3 but was unsuccessful.
+Daphne is tuning HARMONICA4. 
+Daphne damaged HARMONICA4. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA4 but was unsuccessful.
+Daphne counts 4 hat
+Daphne counts 3 shirt
+Daphne counts 1 bandana
+Daphne counts 4 practiceamp
+Daphne counts 1 cable
+Daphne counts 6 strings
+Daphne counts 3 saxophone
+Daphne is tuning SAXOPHONE1. 
+Daphne damaged SAXOPHONE1. It is now broken and must be discarded.
+Daphne tried to tune SAXOPHONE1 but was unsuccessful.
+Daphne is tuning SAXOPHONE2. 
+Daphne damaged SAXOPHONE2. It is now broken and must be discarded.
+Daphne tried to tune SAXOPHONE2 but was unsuccessful.
+Daphne is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Daphne counts 2 cassette
+Daphne counts 1 cassetteplayer
+Daphne is tuning CASSETTEPLAYER1. 
+Daphne tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Daphne counts 2 gigbag
+Daphne counts 3 cdplayer
+Daphne is tuning CDPLAYER1. 
+Daphne tried to tune CDPLAYER1 but was unsuccessful.
+Daphne is tuning CDPLAYER2. 
+Daphne tried to tune CDPLAYER2 but was unsuccessful.
+Daphne is tuning CDPLAYER3. 
+Daphne tried to tune CDPLAYER3 but was unsuccessful.
+Daphne counts 4 recordplayer
+Daphne is tuning RECORDPLAYER1. 
+Daphne tried to tune RECORDPLAYER1 but was unsuccessful.
+Daphne is tuning RECORDPLAYER2. 
+Daphne tried to tune RECORDPLAYER2 but was unsuccessful.
+Daphne is tuning RECORDPLAYER3. 
+Daphne tried to tune RECORDPLAYER3 but was unsuccessful.
+Daphne is tuning RECORDPLAYER4. 
+Daphne tried to tune RECORDPLAYER4 but was unsuccessful.
+Daphne counts 1 mp3
+Daphne is tuning MP31. 
+Daphne tried to tune MP31 but was unsuccessful.
+Daphne finds 65 items in store, worth $1,621.20
+-------------BUYING/SELLING-------------
+3 buyers, 4 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a paperscore
+Item is paperscore in verygood condition.
+Daphne selling at $30.00
+Daphne is selling paperscore for $30.00 to Buyer 1
+inventory count: 65
+inventory count: 64
+Daphne serving Buyer 2
+Buyer 2 wants to buy a mandolin
+Item is mandolin in poor condition.
+Daphne selling at $21.60
+Daphne is selling practiceamp for $4.00 to Buyer 2
+inventory count: 64
+inventory count: 63
+Daphne serving Buyer 3
+Buyer 3 wants to buy a gigbag
+Item is gigbag in good condition.
+Daphne selling at $26.00
+Daphne selling at $23.40
+Buyer 3 wouldn't buy item.
+Daphne serving Seller 1
+Seller 1 wants to sell a paperscore
+Item is paperscore in excellent condition.
+Daphne offers $37.00
+Daphne offers $40.70
+Seller 1 wouldn't sell item.
+Daphne serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in verygood condition.
+Daphne offers $8.00
+Daphne is buying harmonica for $8.00 from Seller 2
+Daphne serving Seller 3
+Seller 3 wants to sell a shirt
+Item is shirt in fair condition.
+Daphne offers $19.00
+Daphne offers $20.90
+Daphne is buying shirt for $20.90 from Seller 3
+Daphne serving Seller 4
+Seller 4 wants to sell a bass
+Item is bass in excellent condition.
+Daphne offers $44.00
+Daphne offers $48.40
+Daphne is buying bass for $48.40 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Daphne is cleaning up the store.
+Daphne doesn't damage anything while cleaning.
+Daphne locks up the store and leaves.
+---------------------------------------------
+               DAY 19 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 19
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 16 - 14 - 0
+Daphne - 6 - 6 - 36
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 20 ***
+---------------------------------------------
+Store opens today, day 20
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $2,390.18 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 1 paperscore
+Shaggy counts 3 cd
+Shaggy counts 5 vinyl
+Shaggy counts 6 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Shaggy is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Shaggy counts 5 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy is tuning BASS5. 
+BASS5 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy needs to order flute
+There is an order coming for flute
+Shaggy counts 5 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Shaggy counts 4 hat
+Shaggy counts 4 shirt
+Shaggy counts 1 bandana
+Shaggy counts 3 practiceamp
+Shaggy counts 1 cable
+Shaggy counts 6 strings
+Shaggy counts 3 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Shaggy counts 2 cassette
+Shaggy counts 1 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy counts 2 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 4 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER3. 
+Shaggy tried to tune RECORDPLAYER3 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER4. 
+Shaggy tried to tune RECORDPLAYER4 but was unsuccessful.
+Shaggy counts 1 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy finds 66 items in store, worth $1,681.50
+-------------BUYING/SELLING-------------
+2 buyers, 1 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a guitar
+Item is guitar in verygood condition.
+Shaggy selling at $81.40
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a recordplayer
+Item is recordplayer in fair condition.
+Shaggy selling at $22.00
+Shaggy is selling recordplayer for $22.00 to Buyer 2
+inventory count: 66
+inventory count: 65
+Shaggy serving Seller 1
+Seller 1 wants to sell a paperscore
+Item is paperscore in good condition.
+Shaggy offers $13.00
+Shaggy is buying paperscore for $13.00 from Seller 1
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 20 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 20
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 6 - 6 - 36
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 21 ***
+---------------------------------------------
+Store is closed today, day 21
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 6 - 6 - 36
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 22 ***
+---------------------------------------------
+Store opens today, day 22
+Velma is sick and cannot work today.
+Daphne is working today.
+Daphne arrives at store.
+Daphne checking for arriving items.
+-----------------------------------------
+Daphne checks: $2,399.18 in register.
+-------------DOING INVENTORY-------------
+Daphne is doing inventory.
+Daphne counts 2 paperscore
+Daphne counts 3 cd
+Daphne counts 5 vinyl
+Daphne counts 6 guitar
+Daphne is tuning GUITAR1. 
+Daphne damaged GUITAR1. It is now broken and must be discarded.
+Daphne tried to tune GUITAR1 but was unsuccessful.
+Daphne is tuning GUITAR2. 
+Daphne damaged GUITAR2. It is now broken and must be discarded.
+Daphne tried to tune GUITAR2 but was unsuccessful.
+Daphne is tuning GUITAR3. 
+Daphne damaged GUITAR3. It is now broken and must be discarded.
+Daphne tried to tune GUITAR3 but was unsuccessful.
+Daphne is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Daphne is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Daphne is tuning GUITAR6. 
+Daphne damaged GUITAR6.
+Daphne tried to tune GUITAR6 but was unsuccessful.
+Daphne counts 5 bass
+Daphne is tuning BASS1. 
+Daphne damaged BASS1. It is now broken and must be discarded.
+Daphne tried to tune BASS1 but was unsuccessful.
+Daphne is tuning BASS2. 
+Daphne damaged BASS2. It is now broken and must be discarded.
+Daphne tried to tune BASS2 but was unsuccessful.
+Daphne is tuning BASS3. 
+BASS3 was tuned successfully.
+Daphne is tuning BASS4. 
+BASS4 was tuned successfully.
+Daphne is tuning BASS5. 
+BASS5 was tuned successfully.
+Daphne counts 6 mandolin
+Daphne is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Daphne is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Daphne is tuning MANDOLIN3. 
+Daphne damaged MANDOLIN3. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN3 but was unsuccessful.
+Daphne is tuning MANDOLIN4. 
+Daphne damaged MANDOLIN4.
+Daphne tried to tune MANDOLIN4 but was unsuccessful.
+Daphne is tuning MANDOLIN5. 
+Daphne damaged MANDOLIN5. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN5 but was unsuccessful.
+Daphne is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Daphne needs to order flute
+There is an order coming for flute
+Daphne counts 5 harmonica
+Daphne is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Daphne is tuning HARMONICA2. 
+Daphne damaged HARMONICA2. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA2 but was unsuccessful.
+Daphne is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Daphne is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Daphne is tuning HARMONICA5. 
+Daphne damaged HARMONICA5.
+Daphne tried to tune HARMONICA5 but was unsuccessful.
+Daphne counts 4 hat
+Daphne counts 4 shirt
+Daphne counts 1 bandana
+Daphne counts 3 practiceamp
+Daphne counts 1 cable
+Daphne counts 6 strings
+Daphne counts 3 saxophone
+Daphne is tuning SAXOPHONE1. 
+Daphne damaged SAXOPHONE1. It is now broken and must be discarded.
+Daphne tried to tune SAXOPHONE1 but was unsuccessful.
+Daphne is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Daphne is tuning SAXOPHONE3. 
+Daphne damaged SAXOPHONE3.
+Daphne tried to tune SAXOPHONE3 but was unsuccessful.
+Daphne counts 2 cassette
+Daphne counts 1 cassetteplayer
+Daphne is tuning CASSETTEPLAYER1. 
+Daphne tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Daphne counts 2 gigbag
+Daphne counts 3 cdplayer
+Daphne is tuning CDPLAYER1. 
+Daphne tried to tune CDPLAYER1 but was unsuccessful.
+Daphne is tuning CDPLAYER2. 
+Daphne tried to tune CDPLAYER2 but was unsuccessful.
+Daphne is tuning CDPLAYER3. 
+Daphne tried to tune CDPLAYER3 but was unsuccessful.
+Daphne counts 3 recordplayer
+Daphne is tuning RECORDPLAYER1. 
+Daphne tried to tune RECORDPLAYER1 but was unsuccessful.
+Daphne is tuning RECORDPLAYER2. 
+Daphne tried to tune RECORDPLAYER2 but was unsuccessful.
+Daphne is tuning RECORDPLAYER3. 
+Daphne tried to tune RECORDPLAYER3 but was unsuccessful.
+Daphne counts 1 mp3
+Daphne is tuning MP31. 
+Daphne tried to tune MP31 but was unsuccessful.
+Daphne finds 66 items in store, worth $1,683.50
+-------------BUYING/SELLING-------------
+4 buyers, 3 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a mp3
+Item is mp3 in good condition.
+Daphne selling at $96.00
+Daphne selling at $86.40
+Daphne is selling mp3 for $86.40 to Buyer 1
+inventory count: 66
+inventory count: 65
+Daphne serving Buyer 2
+Buyer 2 wants to buy a guitar
+Item is guitar in good condition.
+Daphne selling at $81.40
+Daphne is selling practiceamp for $64.00 to Buyer 2
+inventory count: 65
+inventory count: 64
+Daphne is selling cable for $84.00 to Buyer 2
+inventory count: 64
+inventory count: 63
+Daphne is selling strings for $46.00 to Buyer 2
+inventory count: 63
+inventory count: 62
+Daphne is selling strings for $60.00 to Buyer 2
+inventory count: 62
+inventory count: 61
+Daphne serving Buyer 3
+Buyer 3 wants to buy a practiceamp
+Item is practiceamp in poor condition.
+Daphne selling at $4.00
+Daphne selling at $3.60
+Daphne is selling practiceamp for $3.60 to Buyer 3
+inventory count: 61
+inventory count: 60
+Daphne serving Buyer 4
+Buyer 4 wants to buy a cd
+Item is cd in verygood condition.
+Daphne selling at $44.00
+Daphne selling at $39.60
+Buyer 4 wouldn't buy item.
+Daphne serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in fair condition.
+Daphne offers $12.00
+Daphne offers $13.20
+Seller 1 wouldn't sell item.
+Daphne serving Seller 2
+Seller 2 wants to sell a bandana
+Item is bandana in verygood condition.
+Daphne offers $20.00
+Daphne is buying bandana for $20.00 from Seller 2
+Daphne serving Seller 3
+Seller 3 wants to sell a bass
+Item is bass in verygood condition.
+Daphne offers $23.00
+Daphne offers $25.30
+Daphne is buying bass for $25.30 from Seller 3
+-------------END OF DAY ACTIONS-------------
+Daphne is cleaning up the store.
+Daphne doesn't damage anything while cleaning.
+Daphne locks up the store and leaves.
+---------------------------------------------
+               DAY 22 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 22
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 12 - 8 - 49
+Velma - 25 - 21 - 29
+ 
+---------------------------------------------
+         *** Simulation day 23 ***
+---------------------------------------------
+Store opens today, day 23
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $2,697.88 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 5 vinyl
+Velma counts 6 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+Velma damaged GUITAR4. It is now broken and must be discarded.
+Velma tried to tune GUITAR4 but was unsuccessful.
+Velma is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Velma is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Velma counts 6 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma is tuning BASS4. 
+BASS4 was tuned successfully.
+Velma is tuning BASS5. 
+BASS5 was tuned successfully.
+Velma is tuning BASS6. 
+BASS6 was tuned successfully.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma needs to order flute
+There is an order coming for flute
+Velma counts 5 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+Velma damaged HARMONICA3. It is now broken and must be discarded.
+Velma tried to tune HARMONICA3 but was unsuccessful.
+Velma is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Velma is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Velma counts 4 hat
+Velma counts 4 shirt
+Velma counts 2 bandana
+Velma counts 1 practiceamp
+Velma needs to order cable
+Velma ordered a cable
+Velma ordered a cable
+Velma ordered a cable
+Velma counts 4 strings
+Velma counts 3 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Velma is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Velma counts 2 cassette
+Velma counts 1 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma counts 2 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma needs to order mp3
+Velma ordered a mp3
+Velma ordered a mp3
+Velma ordered a mp3
+Velma finds 62 items in store, worth $1,551.80
+-------------BUYING/SELLING-------------
+2 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cassette
+Item is cassette in verygood condition.
+Velma selling at $78.00
+Velma selling at $70.20
+Buyer 1 wouldn't buy item.
+Velma serving Buyer 2
+Buyer 2 wants to buy a cable
+Buyer 2 leaves, no items in stock.
+Velma serving Seller 1
+Seller 1 wants to sell a cassetteplayer
+Item is cassetteplayer in fair condition.
+Velma offers $8.00
+Velma is buying cassetteplayer for $8.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in poor condition.
+Velma offers $8.00
+Velma offers $8.80
+Velma is buying harmonica for $8.80 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a shirt
+Item is shirt in good condition.
+Velma offers $6.00
+Velma is buying shirt for $6.00 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a strings
+Item is strings in poor condition.
+Velma offers $10.00
+Velma offers $11.00
+Velma is buying strings for $11.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 23 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 23
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 12 - 8 - 49
+Velma - 25 - 25 - 31
+ 
+---------------------------------------------
+         *** Simulation day 24 ***
+---------------------------------------------
+Store opens today, day 24
+Daphne is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+Velma adds mp3 to inventory.
+Velma adds mp3 to inventory.
+Velma adds mp3 to inventory.
+-----------------------------------------
+Velma checks: $2,664.08 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 5 vinyl
+Velma counts 6 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+Velma damaged GUITAR2. It is now broken and must be discarded.
+Velma tried to tune GUITAR2 but was unsuccessful.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Velma is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Velma is tuning GUITAR6. 
+Velma damaged GUITAR6.
+Velma tried to tune GUITAR6 but was unsuccessful.
+Velma counts 6 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+Velma damaged BASS3. It is now broken and must be discarded.
+Velma tried to tune BASS3 but was unsuccessful.
+Velma is tuning BASS4. 
+BASS4 was tuned successfully.
+Velma is tuning BASS5. 
+BASS5 was tuned successfully.
+Velma is tuning BASS6. 
+Velma damaged BASS6.
+Velma tried to tune BASS6 but was unsuccessful.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+Velma damaged MANDOLIN1. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN1 but was unsuccessful.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+Velma damaged MANDOLIN5. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN5 but was unsuccessful.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma needs to order flute
+There is an order coming for flute
+Velma counts 6 harmonica
+Velma is tuning HARMONICA1. 
+Velma damaged HARMONICA1. It is now broken and must be discarded.
+Velma tried to tune HARMONICA1 but was unsuccessful.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma is tuning HARMONICA4. 
+Velma damaged HARMONICA4. It is now broken and must be discarded.
+Velma tried to tune HARMONICA4 but was unsuccessful.
+Velma is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Velma is tuning HARMONICA6. 
+HARMONICA6 was tuned successfully.
+Velma counts 4 hat
+Velma counts 5 shirt
+Velma counts 2 bandana
+Velma counts 1 practiceamp
+Velma needs to order cable
+There is an order coming for cable
+Velma counts 5 strings
+Velma counts 3 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+Velma damaged SAXOPHONE2. It is now broken and must be discarded.
+Velma tried to tune SAXOPHONE2 but was unsuccessful.
+Velma is tuning SAXOPHONE3. 
+Velma damaged SAXOPHONE3. It is now broken and must be discarded.
+Velma tried to tune SAXOPHONE3 but was unsuccessful.
+Velma counts 2 cassette
+Velma counts 2 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma counts 2 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 3 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma is tuning RECORDPLAYER3. 
+Velma tried to tune RECORDPLAYER3 but was unsuccessful.
+Velma counts 3 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma is tuning MP32. 
+Velma tried to tune MP32 but was unsuccessful.
+Velma is tuning MP33. 
+Velma tried to tune MP33 but was unsuccessful.
+Velma finds 69 items in store, worth $1,662.60
+-------------BUYING/SELLING-------------
+5 buyers, 3 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cassette
+Item is cassette in verygood condition.
+Velma selling at $78.00
+Velma selling at $70.20
+Velma is selling cassette for $70.20 to Buyer 1
+inventory count: 69
+inventory count: 68
+Velma serving Buyer 2
+Buyer 2 wants to buy a bass
+Item is bass in good condition.
+Velma selling at $50.60
+Velma is selling gigbag for $26.00 to Buyer 2
+inventory count: 68
+inventory count: 67
+Velma is selling strings for $22.00 to Buyer 2
+inventory count: 67
+inventory count: 66
+Velma is selling strings for $8.80 to Buyer 2
+inventory count: 66
+inventory count: 65
+Velma is selling strings for $100.00 to Buyer 2
+inventory count: 65
+inventory count: 64
+Velma serving Buyer 3
+Buyer 3 wants to buy a recordplayer
+Item is recordplayer in poor condition.
+Velma selling at $18.00
+Velma is selling recordplayer for $18.00 to Buyer 3
+inventory count: 64
+inventory count: 63
+Velma serving Buyer 4
+Buyer 4 wants to buy a paperscore
+Item is paperscore in good condition.
+Velma selling at $26.00
+Velma selling at $23.40
+Velma is selling paperscore for $23.40 to Buyer 4
+inventory count: 63
+inventory count: 62
+Velma serving Buyer 5
+Buyer 5 wants to buy a bass
+Item is bass in good condition.
+Velma selling at $50.60
+Velma selling at $45.54
+Velma is selling strings for $58.00 to Buyer 5
+inventory count: 62
+inventory count: 61
+Velma serving Seller 1
+Seller 1 wants to sell a flute
+Item is flute in good condition.
+Velma offers $6.00
+Velma is buying flute for $6.00 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a shirt
+Item is shirt in poor condition.
+Velma offers $8.00
+Velma offers $8.80
+Seller 2 wouldn't sell item.
+Velma serving Seller 3
+Seller 3 wants to sell a paperscore
+Item is paperscore in excellent condition.
+Velma offers $21.00
+Velma is buying paperscore for $21.00 from Seller 3
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 24 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 24
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 12 - 8 - 49
+Velma - 33 - 27 - 41
+ 
+---------------------------------------------
+         *** Simulation day 25 ***
+---------------------------------------------
+Store opens today, day 25
+Shaggy is sick and cannot work today.
+Velma is working today.
+Velma arrives at store.
+Velma checking for arriving items.
+-----------------------------------------
+Velma checks: $2,963.48 in register.
+-------------DOING INVENTORY-------------
+Velma is doing inventory.
+Velma counts 2 paperscore
+Velma counts 3 cd
+Velma counts 5 vinyl
+Velma counts 6 guitar
+Velma is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Velma is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Velma is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Velma is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Velma is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Velma is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Velma counts 6 bass
+Velma is tuning BASS1. 
+BASS1 was tuned successfully.
+Velma is tuning BASS2. 
+BASS2 was tuned successfully.
+Velma is tuning BASS3. 
+BASS3 was tuned successfully.
+Velma is tuning BASS4. 
+BASS4 was tuned successfully.
+Velma is tuning BASS5. 
+BASS5 was tuned successfully.
+Velma is tuning BASS6. 
+Velma tried to tune BASS6 but was unsuccessful.
+Velma counts 6 mandolin
+Velma is tuning MANDOLIN1. 
+Velma tried to tune MANDOLIN1 but was unsuccessful.
+Velma is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Velma is tuning MANDOLIN3. 
+Velma damaged MANDOLIN3. It is now broken and must be discarded.
+Velma tried to tune MANDOLIN3 but was unsuccessful.
+Velma is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Velma is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Velma is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Velma counts 1 flute
+Velma is tuning FLUTE1. 
+Velma tried to tune FLUTE1 but was unsuccessful.
+Velma counts 6 harmonica
+Velma is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Velma is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Velma is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Velma is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Velma is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Velma is tuning HARMONICA6. 
+Velma damaged HARMONICA6. It is now broken and must be discarded.
+Velma tried to tune HARMONICA6 but was unsuccessful.
+Velma counts 4 hat
+Velma counts 5 shirt
+Velma counts 2 bandana
+Velma counts 1 practiceamp
+Velma needs to order cable
+There is an order coming for cable
+Velma counts 1 strings
+Velma counts 3 saxophone
+Velma is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Velma is tuning SAXOPHONE2. 
+Velma tried to tune SAXOPHONE2 but was unsuccessful.
+Velma is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Velma counts 1 cassette
+Velma counts 2 cassetteplayer
+Velma is tuning CASSETTEPLAYER1. 
+Velma tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Velma is tuning CASSETTEPLAYER2. 
+Velma tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Velma counts 1 gigbag
+Velma counts 3 cdplayer
+Velma is tuning CDPLAYER1. 
+Velma tried to tune CDPLAYER1 but was unsuccessful.
+Velma is tuning CDPLAYER2. 
+Velma tried to tune CDPLAYER2 but was unsuccessful.
+Velma is tuning CDPLAYER3. 
+Velma tried to tune CDPLAYER3 but was unsuccessful.
+Velma counts 2 recordplayer
+Velma is tuning RECORDPLAYER1. 
+Velma tried to tune RECORDPLAYER1 but was unsuccessful.
+Velma is tuning RECORDPLAYER2. 
+Velma tried to tune RECORDPLAYER2 but was unsuccessful.
+Velma counts 3 mp3
+Velma is tuning MP31. 
+Velma tried to tune MP31 but was unsuccessful.
+Velma is tuning MP32. 
+Velma tried to tune MP32 but was unsuccessful.
+Velma is tuning MP33. 
+Velma tried to tune MP33 but was unsuccessful.
+Velma finds 63 items in store, worth $1,521.20
+-------------BUYING/SELLING-------------
+3 buyers, 4 sellers today.
+Velma serving Buyer 1
+Buyer 1 wants to buy a cd
+Item is cd in verygood condition.
+Velma selling at $44.00
+Velma is selling cd for $44.00 to Buyer 1
+inventory count: 63
+inventory count: 62
+Velma serving Buyer 2
+Buyer 2 wants to buy a mp3
+Item is mp3 in verygood condition.
+Velma selling at $8.00
+Velma is selling mp3 for $8.00 to Buyer 2
+inventory count: 62
+inventory count: 61
+Velma serving Buyer 3
+Buyer 3 wants to buy a flute
+Item is flute in good condition.
+Velma selling at $12.00
+Velma is selling flute for $12.00 to Buyer 3
+inventory count: 61
+inventory count: 60
+Velma serving Seller 1
+Seller 1 wants to sell a cassette
+Item is cassette in excellent condition.
+Velma offers $14.00
+Velma offers $15.40
+Velma is buying cassette for $15.40 from Seller 1
+Velma serving Seller 2
+Seller 2 wants to sell a cassette
+Item is cassette in fair condition.
+Velma offers $14.00
+Velma is buying cassette for $14.00 from Seller 2
+Velma serving Seller 3
+Seller 3 wants to sell a paperscore
+Item is paperscore in fair condition.
+Velma offers $4.00
+Velma is buying paperscore for $4.00 from Seller 3
+Velma serving Seller 4
+Seller 4 wants to sell a practiceamp
+Item is practiceamp in excellent condition.
+Velma offers $17.00
+Velma is buying practiceamp for $17.00 from Seller 4
+-------------END OF DAY ACTIONS-------------
+Velma is cleaning up the store.
+Velma doesn't damage anything while cleaning.
+Velma locks up the store and leaves.
+---------------------------------------------
+               DAY 25 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 25
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 12 - 8 - 49
+Velma - 36 - 31 - 43
+ 
+---------------------------------------------
+         *** Simulation day 26 ***
+---------------------------------------------
+Store opens today, day 26
+Velma is sick and cannot work today.
+Daphne is working today.
+Daphne arrives at store.
+Daphne checking for arriving items.
+Daphne adds cable to inventory.
+Daphne adds cable to inventory.
+Daphne adds cable to inventory.
+-----------------------------------------
+Daphne checks: $2,977.08 in register.
+-------------DOING INVENTORY-------------
+Daphne is doing inventory.
+Daphne counts 3 paperscore
+Daphne counts 2 cd
+Daphne counts 5 vinyl
+Daphne counts 6 guitar
+Daphne is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Daphne is tuning GUITAR2. 
+Daphne damaged GUITAR2. It is now broken and must be discarded.
+Daphne tried to tune GUITAR2 but was unsuccessful.
+Daphne is tuning GUITAR3. 
+Daphne damaged GUITAR3. It is now broken and must be discarded.
+Daphne tried to tune GUITAR3 but was unsuccessful.
+Daphne is tuning GUITAR4. 
+Daphne damaged GUITAR4. It is now broken and must be discarded.
+Daphne tried to tune GUITAR4 but was unsuccessful.
+Daphne is tuning GUITAR5. 
+Daphne damaged GUITAR5. It is now broken and must be discarded.
+Daphne tried to tune GUITAR5 but was unsuccessful.
+Daphne is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Daphne counts 6 bass
+Daphne is tuning BASS1. 
+BASS1 was tuned successfully.
+Daphne is tuning BASS2. 
+BASS2 was tuned successfully.
+Daphne is tuning BASS3. 
+Daphne damaged BASS3. It is now broken and must be discarded.
+Daphne tried to tune BASS3 but was unsuccessful.
+Daphne is tuning BASS4. 
+BASS4 was tuned successfully.
+Daphne is tuning BASS5. 
+BASS5 was tuned successfully.
+Daphne is tuning BASS6. 
+BASS6 was tuned successfully.
+Daphne counts 6 mandolin
+Daphne is tuning MANDOLIN1. 
+Daphne tried to tune MANDOLIN1 but was unsuccessful.
+Daphne is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Daphne is tuning MANDOLIN3. 
+Daphne tried to tune MANDOLIN3 but was unsuccessful.
+Daphne is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Daphne is tuning MANDOLIN5. 
+Daphne damaged MANDOLIN5. It is now broken and must be discarded.
+Daphne tried to tune MANDOLIN5 but was unsuccessful.
+Daphne is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Daphne needs to order flute
+There is an order coming for flute
+Daphne counts 6 harmonica
+Daphne is tuning HARMONICA1. 
+Daphne damaged HARMONICA1. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA1 but was unsuccessful.
+Daphne is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Daphne is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Daphne is tuning HARMONICA4. 
+Daphne damaged HARMONICA4. It is now broken and must be discarded.
+Daphne tried to tune HARMONICA4 but was unsuccessful.
+Daphne is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Daphne is tuning HARMONICA6. 
+HARMONICA6 was tuned successfully.
+Daphne counts 4 hat
+Daphne counts 5 shirt
+Daphne counts 2 bandana
+Daphne counts 2 practiceamp
+Daphne counts 3 cable
+Daphne counts 1 strings
+Daphne counts 3 saxophone
+Daphne is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Daphne is tuning SAXOPHONE2. 
+Daphne tried to tune SAXOPHONE2 but was unsuccessful.
+Daphne is tuning SAXOPHONE3. 
+Daphne damaged SAXOPHONE3. It is now broken and must be discarded.
+Daphne tried to tune SAXOPHONE3 but was unsuccessful.
+Daphne counts 3 cassette
+Daphne counts 2 cassetteplayer
+Daphne is tuning CASSETTEPLAYER1. 
+Daphne tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Daphne is tuning CASSETTEPLAYER2. 
+Daphne tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Daphne counts 1 gigbag
+Daphne counts 3 cdplayer
+Daphne is tuning CDPLAYER1. 
+Daphne tried to tune CDPLAYER1 but was unsuccessful.
+Daphne is tuning CDPLAYER2. 
+Daphne tried to tune CDPLAYER2 but was unsuccessful.
+Daphne is tuning CDPLAYER3. 
+Daphne tried to tune CDPLAYER3 but was unsuccessful.
+Daphne counts 2 recordplayer
+Daphne is tuning RECORDPLAYER1. 
+Daphne tried to tune RECORDPLAYER1 but was unsuccessful.
+Daphne is tuning RECORDPLAYER2. 
+Daphne tried to tune RECORDPLAYER2 but was unsuccessful.
+Daphne counts 2 mp3
+Daphne is tuning MP31. 
+Daphne tried to tune MP31 but was unsuccessful.
+Daphne is tuning MP32. 
+Daphne tried to tune MP32 but was unsuccessful.
+Daphne finds 67 items in store, worth $1,584.60
+-------------BUYING/SELLING-------------
+2 buyers, 2 sellers today.
+Daphne serving Buyer 1
+Buyer 1 wants to buy a hat
+Item is hat in poor condition.
+Daphne selling at $12.00
+Daphne is selling hat for $12.00 to Buyer 1
+inventory count: 67
+inventory count: 66
+Daphne serving Buyer 2
+Buyer 2 wants to buy a hat
+Item is hat in fair condition.
+Daphne selling at $98.00
+Daphne selling at $88.20
+Daphne is selling hat for $88.20 to Buyer 2
+inventory count: 66
+inventory count: 65
+Daphne serving Seller 1
+Seller 1 wants to sell a cdplayer
+Item is cdplayer in fair condition.
+Daphne offers $5.00
+Daphne offers $5.50
+Seller 1 wouldn't sell item.
+Daphne serving Seller 2
+Seller 2 wants to sell a harmonica
+Item is harmonica in fair condition.
+Daphne offers $17.00
+Daphne offers $18.70
+Daphne is buying harmonica for $18.70 from Seller 2
+-------------END OF DAY ACTIONS-------------
+Daphne is cleaning up the store.
+Daphne doesn't damage anything while cleaning.
+Daphne locks up the store and leaves.
+---------------------------------------------
+               DAY 26 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 26
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 17 - 15 - 0
+Daphne - 14 - 9 - 58
+Velma - 36 - 31 - 43
+ 
+---------------------------------------------
+         *** Simulation day 27 ***
+---------------------------------------------
+Store opens today, day 27
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $3,058.58 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 2 cd
+Shaggy counts 5 vinyl
+Shaggy counts 6 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Shaggy is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Shaggy counts 6 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy is tuning BASS5. 
+BASS5 was tuned successfully.
+Shaggy is tuning BASS6. 
+BASS6 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy needs to order flute
+There is an order coming for flute
+Shaggy counts 7 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Shaggy is tuning HARMONICA6. 
+HARMONICA6 was tuned successfully.
+Shaggy is tuning HARMONICA7. 
+HARMONICA7 was tuned successfully.
+Shaggy counts 2 hat
+Shaggy counts 5 shirt
+Shaggy counts 2 bandana
+Shaggy counts 2 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 1 strings
+Shaggy counts 3 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy is tuning SAXOPHONE3. 
+SAXOPHONE3 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 2 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 2 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy counts 2 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy is tuning MP32. 
+Shaggy tried to tune MP32 but was unsuccessful.
+Shaggy finds 66 items in store, worth $1,548.30
+-------------BUYING/SELLING-------------
+5 buyers, 2 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a vinyl
+Item is vinyl in verygood condition.
+Shaggy selling at $64.00
+Shaggy is selling vinyl for $64.00 to Buyer 1
+inventory count: 66
+inventory count: 65
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a mp3
+Item is mp3 in poor condition.
+Shaggy selling at $60.00
+Shaggy is selling mp3 for $60.00 to Buyer 2
+inventory count: 65
+inventory count: 64
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a saxophone
+Item is saxophone in poor condition.
+Shaggy selling at $32.00
+Shaggy selling at $28.80
+Shaggy is selling saxophone for $28.80 to Buyer 3
+inventory count: 64
+inventory count: 63
+Shaggy serving Buyer 4
+Buyer 4 wants to buy a bass
+Item is bass in good condition.
+Shaggy selling at $45.54
+Shaggy serving Buyer 5
+Buyer 5 wants to buy a shirt
+Item is shirt in good condition.
+Shaggy selling at $12.00
+Shaggy is selling shirt for $12.00 to Buyer 5
+inventory count: 63
+inventory count: 62
+Shaggy serving Seller 1
+Seller 1 wants to sell a practiceamp
+Item is practiceamp in verygood condition.
+Shaggy offers $24.00
+Shaggy offers $26.40
+Shaggy is buying practiceamp for $26.40 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a mp3
+Item is mp3 in excellent condition.
+Shaggy offers $18.00
+Shaggy offers $19.80
+Shaggy is buying mp3 for $19.80 from Seller 2
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 27 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 27
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 21 - 17 - 0
+Daphne - 14 - 9 - 58
+Velma - 36 - 31 - 43
+ 
+---------------------------------------------
+         *** Simulation day 28 ***
+---------------------------------------------
+Store is closed today, day 28
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 21 - 17 - 0
+Daphne - 14 - 9 - 58
+Velma - 36 - 31 - 43
+ 
+---------------------------------------------
+         *** Simulation day 29 ***
+---------------------------------------------
+Store opens today, day 29
+Velma is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $3,177.18 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 2 cd
+Shaggy counts 4 vinyl
+Shaggy counts 6 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Shaggy is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Shaggy counts 6 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy is tuning BASS5. 
+BASS5 was tuned successfully.
+Shaggy is tuning BASS6. 
+BASS6 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy needs to order flute
+There is an order coming for flute
+Shaggy counts 7 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Shaggy is tuning HARMONICA6. 
+HARMONICA6 was tuned successfully.
+Shaggy is tuning HARMONICA7. 
+HARMONICA7 was tuned successfully.
+Shaggy counts 2 hat
+Shaggy counts 4 shirt
+Shaggy counts 2 bandana
+Shaggy counts 3 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 1 strings
+Shaggy counts 2 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 2 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 3 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy is tuning CDPLAYER3. 
+Shaggy tried to tune CDPLAYER3 but was unsuccessful.
+Shaggy counts 2 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy counts 2 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy is tuning MP32. 
+Shaggy tried to tune MP32 but was unsuccessful.
+Shaggy finds 64 items in store, worth $1,510.50
+-------------BUYING/SELLING-------------
+3 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a mp3
+Item is mp3 in excellent condition.
+Shaggy selling at $39.60
+Shaggy selling at $35.64
+Shaggy is selling mp3 for $35.64 to Buyer 1
+inventory count: 64
+inventory count: 63
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a practiceamp
+Item is practiceamp in verygood condition.
+Shaggy selling at $52.80
+Shaggy is selling practiceamp for $52.80 to Buyer 2
+inventory count: 63
+inventory count: 62
+Shaggy serving Buyer 3
+Buyer 3 wants to buy a cdplayer
+Item is cdplayer in good condition.
+Shaggy selling at $54.00
+Shaggy is selling cdplayer for $54.00 to Buyer 3
+inventory count: 62
+inventory count: 61
+Shaggy serving Seller 1
+Seller 1 wants to sell a harmonica
+Item is harmonica in poor condition.
+Shaggy offers $3.00
+Shaggy offers $3.30
+Shaggy is buying harmonica for $3.30 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a mp3
+Item is mp3 in verygood condition.
+Shaggy offers $20.00
+Shaggy is buying mp3 for $20.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a cd
+Item is cd in fair condition.
+Shaggy offers $4.00
+Shaggy offers $4.40
+Seller 3 wouldn't sell item.
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy damaged BANDANA.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 29 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 29
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 24 - 19 - 1
+Daphne - 14 - 9 - 58
+Velma - 36 - 31 - 43
+ 
+---------------------------------------------
+         *** Simulation day 30 ***
+---------------------------------------------
+Store opens today, day 30
+Daphne is sick and cannot work today.
+Shaggy is working today.
+Shaggy arrives at store.
+Shaggy checking for arriving items.
+-----------------------------------------
+Shaggy checks: $3,296.32 in register.
+-------------DOING INVENTORY-------------
+Shaggy is doing inventory.
+Shaggy counts 3 paperscore
+Shaggy counts 2 cd
+Shaggy counts 4 vinyl
+Shaggy counts 6 guitar
+Shaggy is tuning GUITAR1. 
+GUITAR1 was tuned successfully.
+Shaggy is tuning GUITAR2. 
+GUITAR2 was tuned successfully.
+Shaggy is tuning GUITAR3. 
+GUITAR3 was tuned successfully.
+Shaggy is tuning GUITAR4. 
+GUITAR4 was tuned successfully.
+Shaggy is tuning GUITAR5. 
+GUITAR5 was tuned successfully.
+Shaggy is tuning GUITAR6. 
+GUITAR6 was tuned successfully.
+Shaggy counts 6 bass
+Shaggy is tuning BASS1. 
+BASS1 was tuned successfully.
+Shaggy is tuning BASS2. 
+BASS2 was tuned successfully.
+Shaggy is tuning BASS3. 
+BASS3 was tuned successfully.
+Shaggy is tuning BASS4. 
+BASS4 was tuned successfully.
+Shaggy is tuning BASS5. 
+BASS5 was tuned successfully.
+Shaggy is tuning BASS6. 
+BASS6 was tuned successfully.
+Shaggy counts 6 mandolin
+Shaggy is tuning MANDOLIN1. 
+MANDOLIN1 was tuned successfully.
+Shaggy is tuning MANDOLIN2. 
+MANDOLIN2 was tuned successfully.
+Shaggy is tuning MANDOLIN3. 
+MANDOLIN3 was tuned successfully.
+Shaggy is tuning MANDOLIN4. 
+MANDOLIN4 was tuned successfully.
+Shaggy is tuning MANDOLIN5. 
+MANDOLIN5 was tuned successfully.
+Shaggy is tuning MANDOLIN6. 
+MANDOLIN6 was tuned successfully.
+Shaggy needs to order flute
+There is an order coming for flute
+Shaggy counts 8 harmonica
+Shaggy is tuning HARMONICA1. 
+HARMONICA1 was tuned successfully.
+Shaggy is tuning HARMONICA2. 
+HARMONICA2 was tuned successfully.
+Shaggy is tuning HARMONICA3. 
+HARMONICA3 was tuned successfully.
+Shaggy is tuning HARMONICA4. 
+HARMONICA4 was tuned successfully.
+Shaggy is tuning HARMONICA5. 
+HARMONICA5 was tuned successfully.
+Shaggy is tuning HARMONICA6. 
+HARMONICA6 was tuned successfully.
+Shaggy is tuning HARMONICA7. 
+HARMONICA7 was tuned successfully.
+Shaggy is tuning HARMONICA8. 
+HARMONICA8 was tuned successfully.
+Shaggy counts 2 hat
+Shaggy counts 4 shirt
+Shaggy counts 2 bandana
+Shaggy counts 2 practiceamp
+Shaggy counts 3 cable
+Shaggy counts 1 strings
+Shaggy counts 2 saxophone
+Shaggy is tuning SAXOPHONE1. 
+SAXOPHONE1 was tuned successfully.
+Shaggy is tuning SAXOPHONE2. 
+SAXOPHONE2 was tuned successfully.
+Shaggy counts 3 cassette
+Shaggy counts 2 cassetteplayer
+Shaggy is tuning CASSETTEPLAYER1. 
+Shaggy tried to tune CASSETTEPLAYER1 but was unsuccessful.
+Shaggy is tuning CASSETTEPLAYER2. 
+Shaggy tried to tune CASSETTEPLAYER2 but was unsuccessful.
+Shaggy counts 1 gigbag
+Shaggy counts 2 cdplayer
+Shaggy is tuning CDPLAYER1. 
+Shaggy tried to tune CDPLAYER1 but was unsuccessful.
+Shaggy is tuning CDPLAYER2. 
+Shaggy tried to tune CDPLAYER2 but was unsuccessful.
+Shaggy counts 2 recordplayer
+Shaggy is tuning RECORDPLAYER1. 
+Shaggy tried to tune RECORDPLAYER1 but was unsuccessful.
+Shaggy is tuning RECORDPLAYER2. 
+Shaggy tried to tune RECORDPLAYER2 but was unsuccessful.
+Shaggy counts 2 mp3
+Shaggy is tuning MP31. 
+Shaggy tried to tune MP31 but was unsuccessful.
+Shaggy is tuning MP32. 
+Shaggy tried to tune MP32 but was unsuccessful.
+Shaggy finds 63 items in store, worth $1,460.60
+-------------BUYING/SELLING-------------
+2 buyers, 3 sellers today.
+Shaggy serving Buyer 1
+Buyer 1 wants to buy a gigbag
+Item is gigbag in poor condition.
+Shaggy selling at $90.00
+Shaggy selling at $81.00
+Shaggy is selling gigbag for $81.00 to Buyer 1
+inventory count: 63
+inventory count: 62
+Shaggy serving Buyer 2
+Buyer 2 wants to buy a harmonica
+Item is harmonica in poor condition.
+Shaggy selling at $6.60
+Shaggy is selling harmonica for $6.60 to Buyer 2
+inventory count: 62
+inventory count: 61
+Shaggy serving Seller 1
+Seller 1 wants to sell a mandolin
+Item is mandolin in good condition.
+Shaggy offers $22.00
+Shaggy is buying mandolin for $22.00 from Seller 1
+Shaggy serving Seller 2
+Seller 2 wants to sell a cassetteplayer
+Item is cassetteplayer in excellent condition.
+Shaggy offers $16.00
+Shaggy is buying cassetteplayer for $16.00 from Seller 2
+Shaggy serving Seller 3
+Seller 3 wants to sell a hat
+Item is hat in excellent condition.
+Shaggy offers $34.00
+Shaggy offers $37.40
+Shaggy is buying hat for $37.40 from Seller 3
+-------------END OF DAY ACTIONS-------------
+Shaggy is cleaning up the store.
+Shaggy doesn't damage anything while cleaning.
+Shaggy locks up the store and leaves.
+---------------------------------------------
+               DAY 30 SUMMARY
+---------------------------------------------
+---------------------------------------------
+                     END OF DAY 30
+---------------------------------------------
+Clerk - Items Sold - Items Purchased - Items Damaged
+Shaggy - 26 - 22 - 1
+Daphne - 14 - 9 - 58
+Velma - 36 - 31 - 43
+---------------END OF SIMULATION SUMMARY---------------
+ 
+Items in inventory: 
+PAPERSCORE
+CD
+VINYL
+GUITAR
+BASS
+MANDOLIN
+HARMONICA
+HAT
+SHIRT
+PRACTICEAMP
+STRINGS
+SAXOPHONE
+CASSETTE
+CASSETTEPLAYER
+CD
+VINYL
+GUITAR
+BASS
+MANDOLIN
+HARMONICA
+HAT
+SHIRT
+VINYL
+GUITAR
+BASS
+MANDOLIN
+HARMONICA
+SHIRT
+MANDOLIN
+MANDOLIN
+MANDOLIN
+GUITAR
+VINYL
+RECORDPLAYER
+RECORDPLAYER
+BASS
+GUITAR
+SAXOPHONE
+CDPLAYER
+CDPLAYER
+HARMONICA
+GUITAR
+BANDANA
+HARMONICA
+SHIRT
+BASS
+BANDANA
+BASS
+CASSETTEPLAYER
+HARMONICA
+MP3
+PAPERSCORE
+CASSETTE
+CASSETTE
+PAPERSCORE
+PRACTICEAMP
+CABLE
+CABLE
+CABLE
+HARMONICA
+MP3
+MANDOLIN
+CASSETTEPLAYER
+HAT
+$1,487.70$ is the value of inventory
+item sold: GIGBAG Day Sold: 1 Sale Price: $63.00
+item sold: BANDANA Day Sold: 1 Sale Price: $82.00
+item sold: GIGBAG Day Sold: 1 Sale Price: $4.00
+item sold: BANDANA Day Sold: 2 Sale Price: $10.80
+item sold: FLUTE Day Sold: 2 Sale Price: $14.00
+item sold: GIGBAG Day Sold: 2 Sale Price: $16.00
+item sold: RECORDPLAYER Day Sold: 3 Sale Price: $27.00
+item sold: FLUTE Day Sold: 3 Sale Price: $26.00
+item sold: BANDANA Day Sold: 3 Sale Price: $46.80
+item sold: SAXOPHONE Day Sold: 3 Sale Price: $72.00
+item sold: PAPERSCORE Day Sold: 3 Sale Price: $1.80
+item sold: FLUTE Day Sold: 4 Sale Price: $88.00
+item sold: MP3 Day Sold: 4 Sale Price: $28.00
+item sold: CD Day Sold: 5 Sale Price: $30.60
+item sold: SHIRT Day Sold: 5 Sale Price: $21.78
+item sold: CASSETTEPLAYER Day Sold: 5 Sale Price: $80.00
+item sold: MP3 Day Sold: 5 Sale Price: $75.60
+item sold: CDPLAYER Day Sold: 5 Sale Price: $70.00
+item sold: RECORDPLAYER Day Sold: 5 Sale Price: $24.00
+item sold: CASSETTEPLAYER Day Sold: 5 Sale Price: $50.40
+item sold: CDPLAYER Day Sold: 5 Sale Price: $64.80
+item sold: CASSETTE Day Sold: 6 Sale Price: $70.20
+item sold: RECORDPLAYER Day Sold: 8 Sale Price: $54.00
+item sold: HARMONICA Day Sold: 9 Sale Price: $40.00
+item sold: RECORDPLAYER Day Sold: 9 Sale Price: $60.00
+item sold: HARMONICA Day Sold: 10 Sale Price: $99.00
+item sold: SAXOPHONE Day Sold: 10 Sale Price: $30.60
+item sold: PAPERSCORE Day Sold: 10 Sale Price: $3.60
+item sold: PRACTICEAMP Day Sold: 11 Sale Price: $66.60
+item sold: CDPLAYER Day Sold: 11 Sale Price: $32.40
+item sold: CASSETTEPLAYER Day Sold: 11 Sale Price: $43.20
+item sold: PRACTICEAMP Day Sold: 12 Sale Price: $76.00
+item sold: GIGBAG Day Sold: 12 Sale Price: $74.00
+item sold: HAT Day Sold: 13 Sale Price: $20.00
+item sold: CASSETTEPLAYER Day Sold: 13 Sale Price: $64.00
+item sold: CABLE Day Sold: 15 Sale Price: $92.00
+item sold: STRINGS Day Sold: 15 Sale Price: $84.00
+item sold: GIGBAG Day Sold: 16 Sale Price: $48.00
+item sold: PRACTICEAMP Day Sold: 16 Sale Price: $14.00
+item sold: RECORDPLAYER Day Sold: 17 Sale Price: $11.00
+item sold: CASSETTE Day Sold: 17 Sale Price: $61.60
+item sold: FLUTE Day Sold: 18 Sale Price: $83.60
+item sold: VINYL Day Sold: 18 Sale Price: $60.00
+item sold: FLUTE Day Sold: 18 Sale Price: $80.00
+item sold: CABLE Day Sold: 18 Sale Price: $88.00
+item sold: PAPERSCORE Day Sold: 19 Sale Price: $30.00
+item sold: PRACTICEAMP Day Sold: 19 Sale Price: $4.00
+item sold: RECORDPLAYER Day Sold: 20 Sale Price: $22.00
+item sold: MP3 Day Sold: 22 Sale Price: $86.40
+item sold: PRACTICEAMP Day Sold: 22 Sale Price: $64.00
+item sold: CABLE Day Sold: 22 Sale Price: $84.00
+item sold: STRINGS Day Sold: 22 Sale Price: $46.00
+item sold: STRINGS Day Sold: 22 Sale Price: $60.00
+item sold: PRACTICEAMP Day Sold: 22 Sale Price: $3.60
+item sold: CASSETTE Day Sold: 24 Sale Price: $70.20
+item sold: GIGBAG Day Sold: 24 Sale Price: $26.00
+item sold: STRINGS Day Sold: 24 Sale Price: $22.00
+item sold: STRINGS Day Sold: 24 Sale Price: $8.80
+item sold: STRINGS Day Sold: 24 Sale Price: $100.00
+item sold: RECORDPLAYER Day Sold: 24 Sale Price: $18.00
+item sold: PAPERSCORE Day Sold: 24 Sale Price: $23.40
+item sold: STRINGS Day Sold: 24 Sale Price: $58.00
+item sold: CD Day Sold: 25 Sale Price: $44.00
+item sold: MP3 Day Sold: 25 Sale Price: $8.00
+item sold: FLUTE Day Sold: 25 Sale Price: $12.00
+item sold: HAT Day Sold: 26 Sale Price: $12.00
+item sold: HAT Day Sold: 26 Sale Price: $88.20
+item sold: VINYL Day Sold: 27 Sale Price: $64.00
+item sold: MP3 Day Sold: 27 Sale Price: $60.00
+item sold: SAXOPHONE Day Sold: 27 Sale Price: $28.80
+item sold: SHIRT Day Sold: 27 Sale Price: $12.00
+item sold: MP3 Day Sold: 29 Sale Price: $35.64
+item sold: PRACTICEAMP Day Sold: 29 Sale Price: $52.80
+item sold: CDPLAYER Day Sold: 29 Sale Price: $54.00
+item sold: GIGBAG Day Sold: 30 Sale Price: $81.00
+item sold: HARMONICA Day Sold: 30 Sale Price: $6.60
+$3,308.52$ in the cash register
+$1,000.00$ from the bank
+
+Process finished with exit code 0
