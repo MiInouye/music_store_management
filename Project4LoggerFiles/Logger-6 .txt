@@ -1,0 +1,473 @@
+Daily Event: Scooby locks up and leaves for the day.
+Daily Event: Shaggy is working today
+ Daily Event: 1583.8$ in the register
+ Daily Event: 53 items in the inventory
+ Daily Event: $1,265.70$: total purchase price value of inventory items
+Daily Event: Shaggy locks up and leaves for the day.
+Daily Event: Fred is working today
+ Daily Event: 1475.0999999999997$ in the register
+ Daily Event: 62 items in the inventory
+ Daily Event: $1,520.70$: total purchase price value of inventory items
+Daily Event: Fred locks up and leaves for the day.
+Daily Event: Velma is working today
+Daily Event: 0 items have been ordered
+
+Daily Event: 29 items have been sold
+
+Daily Event: 22 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 25 items have been damaged in tuning
+
+ Daily Event: 1509.4199999999998$ in the register
+Daily Event: 0 items have been ordered
+
+Daily Event: 29 items have been sold
+
+Daily Event: 22 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 25 items have been damaged in tuning
+
+ Daily Event: 58 items in the inventory
+Daily Event: 6 items have been ordered
+
+Daily Event: 29 items have been sold
+
+Daily Event: 22 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 28 items have been damaged in tuning
+
+ Daily Event: $1,202.10$: total purchase price value of inventory items
+Daily Event: 6 items have been ordered
+
+Daily Event: 29 items have been sold
+
+Daily Event: 22 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 28 items have been damaged in tuning
+
+Daily Event: Velma locks up and leaves for the day.
+Daily Event: 6 items have been ordered
+
+Daily Event: 31 items have been sold
+
+Daily Event: 25 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 28 items have been damaged in tuning
+
+Daily Event: Fred is working today
+Daily Event: 6 items have been ordered
+
+Daily Event: 31 items have been sold
+
+Daily Event: 25 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 28 items have been damaged in tuning
+
+ Daily Event: 1475.6999999999998$ in the register
+Daily Event: 6 items have been ordered
+
+Daily Event: 31 items have been sold
+
+Daily Event: 25 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 28 items have been damaged in tuning
+
+ Daily Event: 59 items in the inventory
+Daily Event: 6 items have been ordered
+
+Daily Event: 31 items have been sold
+
+Daily Event: 25 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 31 items have been damaged in tuning
+
+ Daily Event: $1,521.90$: total purchase price value of inventory items
+Daily Event: 6 items have been ordered
+
+Daily Event: 31 items have been sold
+
+Daily Event: 25 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 31 items have been damaged in tuning
+
+Daily Event: Fred locks up and leaves for the day.
+Daily Event: 6 items have been ordered
+
+Daily Event: 33 items have been sold
+
+Daily Event: 27 items have been bought
+
+Daily Event: 0 items have been damaged in cleaning
+
+Daily Event: 31 items have been damaged in tuning
+
+store_0Daily Event: Shaggy is working today
+store_0Daily Event: 3 items have been ordered
+
+store_0Daily Event: 34 items have been sold
+
+store_0Daily Event: 21 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 36 items have been damaged in tuning
+
+store_0 Daily Event: 1790.84$ in the register
+store_0Daily Event: 3 items have been ordered
+
+store_0Daily Event: 34 items have been sold
+
+store_0Daily Event: 21 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 36 items have been damaged in tuning
+
+store_0 Daily Event: 58 items in the inventory
+store_0Daily Event: 3 items have been ordered
+
+store_0Daily Event: 34 items have been sold
+
+store_0Daily Event: 21 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 36 items have been damaged in tuning
+
+store_0 Daily Event: $1,405.60$: total purchase price value of inventory items
+store_0Daily Event: 3 items have been ordered
+
+store_0Daily Event: 34 items have been sold
+
+store_0Daily Event: 21 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 36 items have been damaged in tuning
+
+store_0Daily Event: Shaggy locks up and leaves for the day.
+store_0Daily Event: 3 items have been ordered
+
+store_0Daily Event: 35 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 36 items have been damaged in tuning
+
+store_1Daily Event: Fred is working today
+store_1Daily Event: 3 items have been ordered
+
+store_1Daily Event: 35 items have been sold
+
+store_1Daily Event: 25 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 36 items have been damaged in tuning
+
+store_1 Daily Event: 1432.6000000000001$ in the register
+store_1Daily Event: 3 items have been ordered
+
+store_1Daily Event: 35 items have been sold
+
+store_1Daily Event: 25 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 36 items have been damaged in tuning
+
+store_1 Daily Event: 57 items in the inventory
+store_1Daily Event: 3 items have been ordered
+
+store_1Daily Event: 35 items have been sold
+
+store_1Daily Event: 25 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 38 items have been damaged in tuning
+
+store_1 Daily Event: $1,489.60$: total purchase price value of inventory items
+store_1Daily Event: 3 items have been ordered
+
+store_1Daily Event: 35 items have been sold
+
+store_1Daily Event: 25 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 38 items have been damaged in tuning
+
+store_1Daily Event: Fred locks up and leaves for the day.
+store_1Daily Event: 3 items have been ordered
+
+store_1Daily Event: 39 items have been sold
+
+store_1Daily Event: 26 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 38 items have been damaged in tuning
+
+store_0Daily Event: Velma is working today
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 30 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 27 items have been damaged in tuning
+
+store_0Daily Event: 3 arriving items
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 30 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 27 items have been damaged in tuning
+
+store_0 Daily Event: 1503.4800000000002$ in the register
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 30 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 27 items have been damaged in tuning
+
+store_0 Daily Event: 60 items in the inventory
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 30 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_0 Daily Event: $1,639.40$: total purchase price value of inventory items
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 30 items have been sold
+
+store_0Daily Event: 25 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_0Daily Event: Velma locks up and leaves for the day.
+store_0Daily Event: 6 items have been ordered
+
+store_0Daily Event: 31 items have been sold
+
+store_0Daily Event: 27 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_1Daily Event: Scrappy is working today
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 31 items have been sold
+
+store_1Daily Event: 27 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1Daily Event: 3 arriving items
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 31 items have been sold
+
+store_1Daily Event: 27 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1 Daily Event: 1576.6399999999999$ in the register
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 31 items have been sold
+
+store_1Daily Event: 27 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1 Daily Event: 60 items in the inventory
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 31 items have been sold
+
+store_1Daily Event: 27 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1 Daily Event: $1,408.80$: total purchase price value of inventory items
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 31 items have been sold
+
+store_1Daily Event: 27 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1Daily Event: Scrappy locks up and leaves for the day.
+store_1Daily Event: 6 items have been ordered
+
+store_1Daily Event: 34 items have been sold
+
+store_1Daily Event: 31 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_0Daily Event: Velma is working today
+store_0Daily Event: 0 items have been ordered
+
+store_0Daily Event: 31 items have been sold
+
+store_0Daily Event: 17 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 29 items have been damaged in tuning
+
+store_0 Daily Event: 1407.9199999999996$ in the register
+store_0Daily Event: 0 items have been ordered
+
+store_0Daily Event: 31 items have been sold
+
+store_0Daily Event: 17 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 29 items have been damaged in tuning
+
+store_0 Daily Event: 57 items in the inventory
+store_0Daily Event: 0 items have been ordered
+
+store_0Daily Event: 31 items have been sold
+
+store_0Daily Event: 17 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_0 Daily Event: $1,480.60$: total purchase price value of inventory items
+store_0Daily Event: 0 items have been ordered
+
+store_0Daily Event: 31 items have been sold
+
+store_0Daily Event: 17 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_0Daily Event: Velma locks up and leaves for the day.
+store_0Daily Event: 0 items have been ordered
+
+store_0Daily Event: 33 items have been sold
+
+store_0Daily Event: 21 items have been bought
+
+store_0Daily Event: 0 items have been damaged in cleaning
+
+store_0Daily Event: 31 items have been damaged in tuning
+
+store_1Daily Event: Scooby is working today
+store_1Daily Event: 0 items have been ordered
+
+store_1Daily Event: 33 items have been sold
+
+store_1Daily Event: 21 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1 Daily Event: 1588.88$ in the register
+store_1Daily Event: 0 items have been ordered
+
+store_1Daily Event: 33 items have been sold
+
+store_1Daily Event: 21 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 31 items have been damaged in tuning
+
+store_1 Daily Event: 55 items in the inventory
+store_1Daily Event: 0 items have been ordered
+
+store_1Daily Event: 33 items have been sold
+
+store_1Daily Event: 21 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 34 items have been damaged in tuning
+
+store_1 Daily Event: $1,297.90$: total purchase price value of inventory items
+store_1Daily Event: 0 items have been ordered
+
+store_1Daily Event: 33 items have been sold
+
+store_1Daily Event: 21 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 34 items have been damaged in tuning
+
+store_1Daily Event: Scooby locks up and leaves for the day.
+store_1Daily Event: 0 items have been ordered
+
+store_1Daily Event: 34 items have been sold
+
+store_1Daily Event: 22 items have been bought
+
+store_1Daily Event: 0 items have been damaged in cleaning
+
+store_1Daily Event: 34 items have been damaged in tuning
+
